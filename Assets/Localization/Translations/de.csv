@@ -1,629 +1,631 @@
-Keys,Context,DE
-Close Window,,Fenster schließen
-Keep Panel Open,,Halten Monitors Öffnen
-Switch to grid view,,Schalter zu Rasteransicht
-Home,,Zuhause
-Editor Only,,Editor Nur
-Save Language Keys,,Speichern Sprache Keys
-Generate Thumbnails,,Thumbnails
-File,,Datei
-New...,,Neu...
-Open...,,Öffnen...
-Create...,,Erstellen...
-Save...,,Sparen...
-Show My Simulation Folder,,Anzeigen Meine Simulation Ordner
-Restart Simulation,,Restart Simulation
-Activities,,Aktivitäten
-Introduction,,Einführung
-Climate Intro,,Klima Intro
-Exploring the Solar Neighborhood,,Erkundung der Sonnenumgebung
-Eccentricity Intro,,Eccentricity Intro
-Phases of the Moon,,Phasen des Mondes
-Feedback,,Feedback
-Run Performance Test,,Run Leistungstest
-Send Feedback,,Feedback abschicken
-Show Log File in Folder,,Log-Datei anzeigen in Ordner
-Open Log File,,Open Log-Datei
-Open Crash Dump Location,,Öffnen Crash-Dump Ort
-Experimental,,Experimental
-Hands Free Demo,,Hands Free Demo
-Toggle VR Mode,,Toggle VR-Modus
-Tools,,Werkzeuge
-Graphs,,Graphs
-Profiler,,Profiler
-Compare Objects,,Vergleichen Objekte
-Links,,Links
-What's New,,Was gibt's Neues
-Credits,,Credits
-Forum,,Forum
-Troubleshooting,,Fehlerbehebung
-Exit,,Ausgang
-Main,,Main
-Open,,Öffnen
-Create,,Erstellen
-Core,,Ader
-Graphics Quality,,Grafikqualität
-Video,,Video
-Texture Resolution,,Textur-Auflösung
-Filtering Quality,,Filterqualität
-Effects Quality,,Effekte Qualität
-Antialiasing,,Kantenglättung
-Vertical Sync,,Vertikale Synchronisation
-Shadows,,Schatten
-Decals,,Abziehbilder
-Glows,,glüht
-Extra Particles,,Extra-Partikel
-Displacement Mapping,,Displacement Mapping
-Render Mode,,render-Modus
-Volume,,Volumen
-Master Volume,,Master Volume
-Music Volume,,Musiklautstärke
-Input,,Eingang
-Invert Scroll Wheel,,Invert Wählrad
-Use Controller,,Verwenden-Controller
-Performance,,Performance
-Use multi-core,,Verwendung Multi-Core
-Pause on low FPS,,Pause auf niedrigen FPS
-Low FPS Threshold,,Low FPS Threshold
-Max Attracting Bodies,,Max Attracting Bodies
-Max Non-Attracting Bodies,,Max nicht anziehenden Bodies
-Max Decals,,Max-Abziehbilder
-Debug,,Debuggen
-Debug Info,,Debug-Informationen
-Attractor Lines,,Attractor Linien
-Impact Lines,,Auswirkungen Linien
-linkMassToBodyDefault,,linkMassToBodyDefault
-linkRadiusToBodyDefault,,linkRadiusToBodyDefault
-linkAtmosphereDefault,,linkAtmosphereDefault
-TargetFrameRate,,target
-Window Resolution,,Fenster Auflösung
-Reset,,rücksetzen
-Settings,,die Einstellungen
-Add,,Hinzufügen
-Powers,,Powers
-Chart,,Diagramm
-Properties,,Eigenschaften
-Each Frame,,jeder Rahmen
-On Demand,,Auf Nachfrage
-Graph,,Graph
-Timespan,,Zeitspanne
-X Value,,X-Wert
-X Unit,,X Einheit
-Y Value,,Y-Wert
-Y Unit,,Y Einheit
-Advanced,,fortgeschritten
-MouseSensitivity,,Maus-Empfindlichkeit
-X Axis,,X-Achse
-Y Axis,,Y-Achse
-Legend,,Legende
-Labels,,Labels
-GridColor,,Gridcolor
-LabelsColor,,LabelsColor
-HighlightColor,,Hervorhebungsfarbe
-Compare,,Vergleichen
-Scripting,,Scripting
-Paths,,Paths
-Scripts,,Scripts
-Ambience,,Ambiente
-Presets,,Presets
-Grid,,Gitter
-Opacity,,Opazität
-3D Labels,,3D-Labels
-Icons,,Icons
-Trails,,Trails
-Context,,Kontext
-Width,,Breite
-Length,,Länge
-Intensity,,Intensität
-Orbits,,Orbits
-Orbit Context,,Orbit Context
-Orbit Width,,Orbit Breite
-Orbit Intensity,,Orbit Intensity
-Projected Paths,,projizierte Paths
-Rays,,rays
-Long/Latitude Lines,,Lang / Latitude Linien
-Velocity Lines,,Geschwindigkeitslinien
-Lighting Mode,,Beleuchtungsmodus
-Light Intensity,,Lichtintensität
-Body Colors,,Körperfarben
-Habitable Zones,,bewohnbare Zonen
-SPH - Hidden in Build,,SPH - Versteckt in Build
-SPH Display Mode,,SPH-Anzeigemodus
-SPH Sample Mode,,SPH Sample Mode
-SPH Render Mode,,SPH-Rendermodus
-View,,Aussicht
-Simulation,,Simulation
-Help,,Hilfe
-Edit,,Bearbeiten
-home,,Zuhause
-select,,wählen
-edit,,bearbeiten
-add,,hinzufügen
-powers,,Befugnisse
-script,,Skript
-play_pause,,Spielpause
-sim,,sim
-view,,Aussicht
-chart,,Diagramm
-standard,,Standard
-find,,finden
-help,,Hilfe
-feedback,,Feedback
-profiler,,Profiler
-restart,,Neustart
-Time,,Zeit
-increase,,"erhöhen, ansteigen"
-decrease,,verringern
-Gravity,,Schwere
-Tolerance,,Toleranz
-IntegratorId,,IntegratorId
-IntegrationMode,,IntegrationMode
-Compute Device,,Compute Geräte
-Accuracy,,Richtigkeit
-Collisions,,Collisions
-Enable Collisions,,Aktivieren Collisions
-Collision Mode,,Kollisionsmodus
-MaintainCenterOfMass,,MaintainCenterOfMass
-SlidingMotionDampning,,SlidingMotionDampning
-AbsorptionRadiusScalar,,AbsorptionRadiusScalar
-ShockWaveRangeMultiplier,,ShockWaveRangeMultiplier
-ShockWaveGradualEnergyScalar,,ShockWaveGradualEnergyScalar
-FragmentRandomVelocityScale,,FragmentRandomVelocityScale
-FragmentRandomAngularVelocityScale,,FragmentRandomAngularVelocityScale
-LossRatio,,Verlustrate
-EjectionVelocityRandomScalar,,EjectionVelocityRandomScalar
-OrthogonalEjectionVelocityScalar,,OrthogonalEjectionVelocityScalar
-EjectionVelocityScalar,,EjectionVelocityScalar
-Particle Density,,Teilchendichte
-Pause on Collision,,Pause auf Kollisions
-Volatile Tails,,Volatile Tails
-Comets,,Kometen
-Comet Tail Acceleration Multiplier,,Kometenschweif Acceleration Multiplier
-Stellar Flares,,Stellar Flares
-Flare Frequency Multiplier,,Flare Frequency Multiplier
-Flare Duration Multiplier,,Flare Dauer Multiplier
-Tides,,Gezeiten
-Tidal Heating,,Tidal Heizung
-Bodies heat through friction when they are deformed by tidal forces,,"Körper Wärme durch Reibung, wenn sie durch die Gezeitenkräfte verformt werden"
-Tidal Heating Multiplier as Log,,Tidal Heizung Multiplier als Log
-Multiply the effect of tidal heating,,Multiplizieren die Wirkung der Gezeiten Heizung
-Coming in a Future Update,,Kommen in einem zukünftigen Update
-Tidal Evolution,,Tidal-Evolution
-The orbit and rotation of a body is affected by tidal forces,,Die Bahn und die Drehung eines Körpers wird durch die Gezeitenkräfte betroffen
-Tidal Evolution Multiplier,,Tidal Entwicklung Multiplier
-Multiply the effect of tidal evolution,,Multiplizieren Sie die Wirkung der Gezeiten Evolution
-Universal Drag,,universal-Drag
-Totally fake effect - as if there were atmosphere everywhere to cause drag,,Völlig gefälschte Wirkung - als ob es die Atmosphäre war überall verursachen ziehen
-Drag Reference Frame,,Ziehen Referenzrahmen
-Density of Space,,Dichte des Raumes
-Drag Coefficient,,Luftwiderstandsbeiwert
-Actions,,Aktionen
-Reverse All Velocities,,Rückwärts alle Geschwindigkeiten
-Halt All Velocities,,Halt alle Geschwindigkeiten
-Halt All Rotations,,Halt alle Rotationen
-+2% All Velocities,,+ 2% Alle Geschwindigkeiten
--2% All Velocities,,-2% Alle Geschwindigkeiten
-+2% All Rotations,,+ 2% Alle Rotationen
--2% All Rotations,,-2% Alle Rotationen
-Balance Simulation Momentum,,Balance Simulation Momentum
-Delete All Particles/Dust,,Löschen Alle Partikel / Staub
-Delete All Fragments,,Löschen Alle Fragmente
-Delete All Trail Data,,Alle löschen Trail Daten
-Auto Orbit,,Auto Orbit
-Focus on Center Body,,Konzentrieren Sie sich auf Center Körper
-Expand - Not in Steam,,Expand - Nicht im Dampf
-Shrink - Not in Steam,,Shrink - Nicht im Dampf
-Stats,,Info & Statistiken
-Body Count,,Zählung der Toten
-Simulated,,Simuliert
-NonSimulated,,NonSimulated
-Attracting,,anziehenden
-NonAttracting,,NonAttracting
-Star Count,,Anzahl Sterne
-Mass,,Masse
-Velocity,,Geschwindigkeit
-Momentum,,Schwung
-General,,Allgemeines
-Show Trail,,Show Trail
-Show Orbit,,Zeige Orbit
-Name,,Name
-Radius,,Radius
-Density,,Dichte
-Age,,Alter
-Surface Temperature,,Oberflächentemperatur
-Surface temperature of the body,,Die Oberflächentemperatur des Körpers
-Total Velocity,,Total Velocity
-Relative Total Velocity,,Relative Total Velocity
-Relative Body,,Relative Körper
-Orbital Parent,,Orbital Elternteil
-The body that this body orbits,,"Der Körper, dass dieser Körper Bahnen"
-Rotational Period,,Rotationsperiode
-Amount of time it takes for this body to spin once,,"Höhe der Zeit, die für diese Stelle einmal drehen"
-Position Lock,,Position Lock
-Tidally Lock,,gezeitenSchloss
-Display Settings,,Bildschirmeinstellungen
-Hide Rotation,,ausblenden Rotation
-Display Mode,,Anzeigemodus
-DisplayFlags,,DisplayFlags
-Axis,,Achse
-Obliquity,,Schiefe
-Angle between rotation axis and orbital plane,,Winkel zwischen Drehachse und Umlaufbahnebene
-Argument of Obliquity,,Argument von Obliquity
-Defines where in the orbit the rotation axis points,,"Definiert, wo in der Umlaufbahn der Drehachse Punkte"
-Orbital Elements,,Orbital Elements
-Semi-Major Axis,,Halbachse
-The typical distance from the orbital parent body,,Der typische Abstand von dem Orbital-Grundkörper
-Eccentricity,,Exzentrizität
-How circular (0) to not circular (1) the orbit is,,"Wie Kreis (0) nicht kreisförmige (1) die Umlaufbahn ist,"
-Inclination,,Neigung
-Angle between the orbital plane and a reference plane,,Winkel zwischen der Bahnebene und einer Referenzebene
-Argument of Periapsis,,Argument von Periapsis
-Describes the orientation of the orbital plane - where the closest approach point is,,Beschreibt die Ausrichtung der Bahnebene - wo der nächste Annäherungspunkt ist
-Right Ascension of the Ascending Node,,Rektaszension des aufsteigenden Knoten
-Where the orbit passes upward through the reference frame,,Wo die Bahn verläuft nach oben durch den Referenzrahmen
-Mean Anomaly,,Mittlere Anomaly
-Where in the orbit the body currently is,,Wo in der Umlaufbahn zur Zeit der Körper
-Orbital Period,,Umlaufzeit
-Amount of time it takes for the body to orbit its parent,,"Höhe der Zeit, die für den Körper seiner Eltern in den Orbit"
-Periapsis Distance,,Periapsis Entfernung
-Distance of closest approach,,Die Entfernung der nächsten Annäherung
-Apoapsis Distance,,Apoapsis Entfernung
-Distance of furthest approach,,Die Entfernung des am weitesten Ansatz
-Temperature,,Temperatur
-Tidal Power,,Gezeitenkraft
-Amount of energy per second from tidal heating,,"Menge an Energie, die pro Sekunde von Gezeitenheizung"
-Radiative Power,,Strahlungsleistung
-Amount of energy per second absorbed from radiative sources,,Energiemenge pro Sekunde von Strahlungsquellen absorbiert
-Effective Temperature,,Effektive Temperatur
-Calculated from all heating sources,,von allen Wärmequellen berechnet
-Dynamic,,dynamisch
-Position,,Position
-Orientation,,Orientierung
-AngularVelocity,,Winkelgeschwindigkeit
-SubStepCount,,SubStepCount
-Camera Relative,,Kamera Relative
-Normalized Light Curve,,Normalisierten Licht Curve
-Fraction of star light reaching the camera,,Die Fraktion von Sternlicht erreicht die Kamera
-Radial Velocity,,Radialgeschwindigkeit
-Speed of selected object toward or away from the camera,,Geschwindigkeit des ausgewählten Objekts zu oder weg von der Kamera
-Camera Inclination,,Kamera Neigungs
-Angle between plane and camera position,,Winkel zwischen der Ebene und der Kameraposition
-Camera Azimuth,,Kamera Azimuth
-Camera Rotation Angle,,Kamera Drehwinkel
-Albedo,,Albedo
-Reflectivity of the body from 0-1,,Reflectivity des Körpers von 0 bis 1
-Albedo Feedback,,Albedo
-Greenhouse Effect,,Treibhauseffekt
-How Much Warmer Than Without an Atmosphere,,Wie viel wärmer als ohne Atmosphäre
-Atmosphere Mass,,Atmosphäre Massen
-Surface Pressure,,Flächenpressung
-Scale Height,,Skalenhöhe
-Enable Climate,,Aktivieren Klima
-Temperature Depends on Latitude,,Temperatur hängt von Latitude
-Optimize for Climate View,,Optimieren für Klima anzeigen
-Show Atmosphere,,Show-Atmosphäre
-Show Clouds,,Show Wolken
-Heat Capacity of Air,,Wärmekapazität der Luft
-Heat Capacity of Air + Ocean Mixed Layer,,Wärmekapazität von Air + Ocean Mischschicht
-Land-Ocean Heat Coupling Factor,,Land-Ocean-Wärme-Kopplung Factor
-Equator-to-Pole Diffusion,,Äquator-to-Pole Diffusion
-Simulate Hadley Cell,,Simulieren Hadley Zelle
-Reset Climate to Default,,Zurücksetzen Klima auf Standard
-Defines direction the rotation axis points,,Definiert Richtung der Drehachse Punkte
-Avg. Distance to Star,,Durchschn. Entfernung zum Stern
-The average distance to the Sun,,Die durchschnittliche Entfernung zur Sonne
-Cumulative Properties,,kumulative Eigenschaften
-Debug Tools,,Debug-tools
-RadiusTuningFactor,,RadiusTuningFactor
-disableInterpolation,,disableInterpolation
-linkMassToBody,,linkMassToBody
-linkRadiusToBody,,linkRadiusToBody
-linkAtmosphere,,linkAtmosphere
-PastType,,PastType
-PresentType,,PresentType
-FutureType,,FutureType
-Transition,,Übergang
-Category,,Kategorie
-Base,,Base
-Celestial,,himmlisch
-ChartComponent,,ChartComponent
-OrbitalElements,,OrbitalElements
-AppearanceComponent,,AppearanceComponent
-Composition,,Zusammensetzung
-DustParticleTail,,DustParticleTail
-IonTail,,IonTail
-TrailComponent,,TrailComponent
-ClimateComponent,,ClimateComponent
-Persistence,,Beharrlichkeit
-Save this object,,Speichern Sie dieses Objekt
-Open Bodies Folder,,Offene Stellen Ordner
-Misc,,Verschiedenes
-Launch Fireworks,,Starten Sie Fireworks
-Zero Velocity,,Null-Geschwindigkeit
-Explosion,,Explosion
-Energy,,Energie
-Mars,,Mars
-Find,,Finden
-All,,Alle
-Internal,,intern
-Bugs,,Bugs
-Old Internal,,Old Internal
-Solar Sys,,Solar-Sys
-Planets,,Planets
-Exoplanets,,Exoplaneten
-Supernovas,,Supernovae
-Stress Tests,,Stresstests
-Experiments,,Experimente
-Human Scale,,Menschlichen Maßstab
-Other Tests,,Weitere Tests
-My Sims,,My Sims
-Choreo,,Choreo
-Systems,,Systeme
-Galaxies,,Galaxies
-Encounters,,Begegnungen
-Grids,,Grids
-Chaotic Orbits,,chaotische Orbits
-Stars,,Sterne
-Minor,,Geringer
-Black Holes,,Schwarze Löcher
-Common,,Verbreitet
-Moons,,Moons
-Objects,,Objekte
-User Objects,,Benutzerobjekte
-Rings,,Ringe
-1D,,1D
-2D,,2D
-3D,,3D
-Procedural,,Procedural
-Textured,,Strukturierter
-Planet,,Planet
-Basic,,Basic
-Materials,,Materialien
-Orcus,,Orcus
-Climate,,Klima
-Copy Language Keys to Clipboard,,Kopieren Sprache Keys to Clipboard
-High,,Hoch
-Medium,,Mittel
-Low,,Niedrig
-Off,,aus
-  2x   Multisampling,,  2x Multisampling
-  4x   Multisampling,,  4x Multisampling
-  8x   Multisampling,,  8x Multisampling
-Realistic,,Realistisch
-Wireframe,,Drahtgitter-
-Retro,,Retro
-Sketchbook,,Skizzenbuch
-Relief,,Linderung
-Underwater,,Unterwasser-
-Selected,,Ausgewählt
-Auto,,Auto
-Studio,,Studio
-Flash Light,,Blitzlicht
-Acceleration,,Beschleunigung
-Physics,,Physik
-Flat,,Eben
-Billboard,,Reklametafel
-Cross,,Kreuz
-Color,,Farbe
-Pressure,,Druck
-Gauss,,Gauss
-Circular,,Kreisförmig
-Additive,,Zusatzstoff
-Alpha,,Alpha
-Time +,,Time +
-TimeStepModeDependant,,TimeStepModeDependant
-Euler Explicit,,Euler Explicit
-Euler Semi Implicit,,Euler Semi Implizite
-RK2,,RK2
-RK4,,RK4
-RKF,,RKF
-Velocity Verlet,,Geschwindigkeit Verlet
-Forest Ruth,,Wald Ruth
-PEFRL,,PEFRL
-Fixed,,Fest
-Global Adaptive,,globale Adaptive
-Enable Fragments,,Aktivieren Fragmente
-Awesome,,Genial
-Barycenter,,barycenter
-Most Massive Body,,Massivste Körper
-Fixed Grid,,feste Gitter
-Info & Stats,,Info & Statistiken
-Default,,Standard
-Elevation,,Elevation
-Surface Features,,Oberflächeneigenschaften
-None,,Keiner
-Trail,,Weg
-Orbit,,Orbit
-Prefab,,Prefab
-Black Hole,,Schwarzes Loch
-Star,,Star
-Gas Giant,,Gasriese
-Terrestrial Planet,,Terrestrischer Planet
-Planetoid,,Planetoid
-Physics Object,,Physik Objekt
-Lock Position,,Position sperren
-Collider,,Collider
-Collider Group Major,,Collider Gruppe Dur
-Gravity Attracting,,Gravity Attracting
-Fragmenting,,Fragmentierungs
-Momentum Less,,Momentum Weniger
-Collision,,Kollision
-Timeout,,Auszeit
-Protocol,,Protokoll
-Nova,,Nova
-Deletion,,Streichung
-Regular,,Regulär
-Brown Dwarf,,Brown Dwarf
-White Dwarf,,Weißer Zwerg
-Neutron Star,,Neutronenstern
-DEFAULT,,STANDARD
-FRAGMENTATION,,ZERSPLITTERUNG
-Rock,,Rock
-Terran,,Terran
-Desert,,Wüste
-Ice,,Eis
-Local Laplace,,lokale Laplace
-Ecliptic,,Ekliptik
-Equatorial,,äquatorial
-Charon,,Charon
-RCP8 5,,RCP8 5
-RCP6,,RCP6
-RCP4 5,,RCP4 5
-RCP2 6,,RCP2 6
-Levels,,Levels
-Seed,,Samen
-StarIntensity,,StarIntensity
-Brightness,,Helligkeit
-Contrast,,Kontrast
-Saturation,,Sättigung
-ClampToHorizon,,ClampToHorizon
-Colors,,Farben
-BaseColor,,Grundfarbe
-Color1,,color1
-Color2,,Farbe2
-Solid Color,,Einfarbig
-Texture,,Textur
-Mode,,Modus
-Manual,,Handbuch
-Automatic,,automatisch
-AmbientLight,,Umgebungslicht
-Manual Ambient Color,,Manuell Umgebungsfarbe
-Ambient Brightness,,Umgebungshelligkeit
-BackgroundRotation,,BackgroundRotation
-BackgroundTextureSource,,BackgroundTextureSource
-Save as...,,Speichern als...
-StartDate,,Anfangsdatum
-StartPaused,,StartPaused
-Body A,,Körper A
-Rotation Period,,Rotationsperiode
-Body B,,Körper B
-Collider Count,,Collider Graf
-Sec Before Collision (real time),,Sec vor der Kollision (Echtzeit)
-Pos H Offset in Rad A,,Po H Offset in Rad A
-Pos V Offset in Rad A,,Pos V Offset in Rad A
-Angle H,,Winkel H
-Angle V,,Winkel V
-Time Between Colliders,,Time Between Colliders
-System,,System
-A + B Groups,,A + B-Gruppen
-Time Offset Each Group,,Zeitversatz Jede Gruppe
-Collision Resolution,,Kollisionsauflösung
-Velocity X,,Geschwindigkeit X
-Velocity Y,,Geschwindigkeit Y
-Velocity Z,,Geschwindigkeit Z
-Time Step Rate,,Time Step Rate
-Real Time,,Echtzeit
-Time Step Mode,,Time Step-Modus
-Reset Camera,,Kamera zurücksetzen
-Options,,Optionen
-Initialize Climate,,initialisieren Klima
-Body,,Karosserie
-Separation in Radii,,Trennung in Radii
-Upward Velocity Scale,,Aufwärtsgeschwindigkeitsskala
-Randomize,,randomize
-Randomize Mass,,randomize Massen
-Perturb Pos in Radii,,Perturb Pos in Radii
-Rate,,Bewertung
-Integrator,,Integrator
-Random Seed,,Random Seed
-Center Body,,Center Körper
-NumberOfGasGiants,,NumberOfGasGiants
-NumberOfPlanets,,NumberOfPlanets
-NumberOfMoons,,NumberOfMoons
-NumberOfSmallMoons,,NumberOfSmallMoons
-Min Planet Distance By Star Radius ,,Min Planet Entfernung von Stern Radius
-Max Planet Distance By Star Radius ,,Max Planet Entfernung von Stern Radius
-Max Random Inclination of Planets,,Max Zufalls Neigung der Planeten
-NumOfGalaxies,,NumOfGalaxies
-numberOfParticles,,numberOfParticles
-numberDMParticles,,numberDMParticles
-relativeSize,,relative Größe
-includeDarkMatter,,includeDarkMatter
-E0,,E0
-E1,,E1
-E2,,E2
-E3,,E3
-E4,,E4
-E5,,E5
-E6,,E6
-E7,,E7
-S0,,S0
-Sa,,Sa
-Sb,,Sb
-Sc,,Sc
-S Ba,,S Ba
-S Bb,,S Bb
-S Bc,,S Bc
-GalaxyType,,GalaxyType
-SpiralArms,,SpiralArms
-ArmAngle,,ArmAngle
-Arrange,,Ordnen
-Inner Radius,,Innenradius
-Outer Radius,,Äußerer Radius
-Right Height,,rechts Höhe
-Geo,,Geo
-Radius Units,,Radius-Einheiten
-Auto Bounds,,Auto Bounds
-Automatically compute realistic inner and outer boundaries,,berechnen automatisch realistische inneren und äußeren Begrenzungen
-Show ring gaps,,Lücken anzeigen Ring
-Include gaps in rings causd by unstable resonances with orbiting bodies,,Fügen Sie Lücken in den Ringen Causd durch instabilen Resonanzen mit umlaufenden Körpern
-Rectangle,,Rechteck
-Ring,,Ring
-Sphere,,Kugel
-Box,,Box
-Spiral,,Spiral
-Torus,,Wulst
-Shape,,Gestalten
-Fill,,Füllen
-Surface,,Oberfläche
-Ordered,,bestellt
-Random,,Zufällig
-Spacing,,Abstand
-Linear,,Linear
-Quadratic,,quadratisch
-Cubic,,kubisch
-Exponential,,Exponentiell
-Spriral Type,,spriral Typ
-Spriral Revolutions,,spriral Revolutionen
-Solar System,,Sonnensystem
-Date,,Datum
-Start,,Anfang
-Encounter,,Begegnung
-Date Meaning,,Datum Bedeutung
-Dwarfs And Major Asteroids,,Zwerge und Major Asteroids
-Dwarfs And Asteroids,,Zwerge und Asteroids
-Dwarfs And Many Asteroids,,Zwerge und viele Asteroids
-Asteroids & Dwarfs,,Asteroids & Zwerge
-Earths Moon,,Earths Mond
-Major Moons,,Wichtige Moons
-All Moons,,Alle Monde
-Just Saturn,,nur Saturn
-Visitor,,Besucher
-Include Rogue Body,,Fügen Sie Rogue Körper
-Rogue Body,,Rogue Körper
-Use Different Mass,,Verwenden Sie unterschiedliche Masse
-Body Mass,,Körpermasse
-Distance from Aim Point,,Entfernung vom Zielpunkt
-Aim Target,,Ziel Ziel
-Aim Point X Offset,,Zielpunkt X Offset
-Aim Point Y Offset,,Zielpunkt Y-Versatz
-1 - Delete Rogue Body,,1 - Löschen Rogue Körper
-2 - Balance Simulation Momentum,,2 - Balance Simulation Momentum
-3 - Delete All Trail Data,,3 - Alle löschen Trail Daten
-Copy Settings to Clipboard,,Einstellungen kopieren kopieren
-MassValues,,MassValues
-Mass Low,,Masse Low
-Mass High,,Massenhigh
-Mass Logarithmic,,Masse logarithmisch
-TempValues,,TempValues
-Temperature Low,,Temperatur Nieder
-Temperature High,,Hochtemperatur
-Temperature Logarithmic,,Temperatur logarithmisch
-Fragment,,Fragment
-Body Type,,Körpertyp
-Four Materials,,vier Materialien
-viewAngle,,viewAngle
-Sun,,Sonne
-Semi Major Axis,,Semi Hauptachse
-Right Asc Of Asc Node,,Rechts Asc Asc Knoten
-Arg Of Perigee,,Arg Of Perigee
+"Keys","Context","EN"
+"Close Window","","Fenster schließen"
+"Keep Panel Open","","Halten Monitors Öffnen"
+"Switch to grid view","","Schalter zu Rasteransicht"
+"Home","","Zuhause"
+"Editor Only","","Editor Nur"
+"Save Language Keys","","Speichern Sprache Keys"
+"Generate Thumbnails","","Thumbnails"
+"File","","Datei"
+"New...","","Neu..."
+"Open...","","Öffnen..."
+"Create...","","Erstellen..."
+"Save...","","Sparen..."
+"Show My Simulation Folder","","Anzeigen Meine Simulation Ordner"
+"Restart Simulation","","Restart Simulation"
+"Activities","","Aktivitäten"
+"Introduction","","Einführung"
+"Climate Intro","","Klima Intro"
+"Exploring the Solar Neighborhood","","Erkundung der Sonnenumgebung"
+"Eccentricity Intro","","Eccentricity Intro"
+"Phases of the Moon","","Phasen des Mondes"
+"Feedback","","Feedback"
+"Run Performance Test","","Run Leistungstest"
+"Send Feedback","","Feedback abschicken"
+"Show Log File in Folder","","Log-Datei anzeigen in Ordner"
+"Open Log File","","Open Log-Datei"
+"Open Crash Dump Location","","Öffnen Crash-Dump Ort"
+"Experimental","","Experimental"
+"Hands Free Demo","","Hands Free Demo"
+"Toggle VR Mode","","Toggle VR-Modus"
+"Tools","","Werkzeuge"
+"Graphs","","Graphs"
+"Profiler","","Profiler"
+"Compare Objects","","Vergleichen Objekte"
+"Links","","Links"
+"What's New","","Was gibt's Neues"
+"Credits","","Credits"
+"Forum","","Forum"
+"Troubleshooting","","Fehlerbehebung"
+"Exit","","Ausgang"
+"Main","","Main"
+"Open","","Öffnen"
+"Create","","Erstellen"
+"Core","","Ader"
+"Graphics Quality","","Grafikqualität"
+"Video","","Video"
+"Texture Resolution","","Textur-Auflösung"
+"Filtering Quality","","Filterqualität"
+"Effects Quality","","Effekte Qualität"
+"Antialiasing","","Kantenglättung"
+"Vertical Sync","","Vertikale Synchronisation"
+"Shadows","","Schatten"
+"Decals","","Abziehbilder"
+"Glows","","glüht"
+"Extra Particles","","Extra-Partikel"
+"Displacement Mapping","","Displacement Mapping"
+"Render Mode","","render-Modus"
+"Volume","","Volumen"
+"Master Volume","","Master Volume"
+"Music Volume","","Musiklautstärke"
+"Input","","Eingang"
+"Invert Scroll Wheel","","Invert Wählrad"
+"Use Controller","","Verwenden-Controller"
+"Performance","","Performance"
+"Use multi-core","","Verwendung Multi-Core"
+"Pause on low FPS","","Pause auf niedrigen FPS"
+"Low FPS Threshold","","Low FPS Threshold"
+"Max Attracting Bodies","","Max Attracting Bodies"
+"Max Non-Attracting Bodies","","Max nicht anziehenden Bodies"
+"Max Decals","","Max-Abziehbilder"
+"Debug","","Debuggen"
+"Debug Info","","Debug-Informationen"
+"Attractor Lines","","Attractor Linien"
+"Impact Lines","","Auswirkungen Linien"
+"linkMassToBodyDefault","","linkMassToBodyDefault"
+"linkRadiusToBodyDefault","","linkRadiusToBodyDefault"
+"linkAtmosphereDefault","","linkAtmosphereDefault"
+"TargetFrameRate","","target"
+"Window Resolution","","Fenster Auflösung"
+"Reset","","rücksetzen"
+"Settings","","die Einstellungen"
+"Add","","Hinzufügen"
+"Powers","","Powers"
+"Chart","","Diagramm"
+"Properties","","Eigenschaften"
+"Each Frame","","jeder Rahmen"
+"On Demand","","Auf Nachfrage"
+"Graph","","Graph"
+"Timespan","","Zeitspanne"
+"X Value","","X-Wert"
+"X Unit","","X Einheit"
+"Y Value","","Y-Wert"
+"Y Unit","","Y Einheit"
+"Advanced","","fortgeschritten"
+"MouseSensitivity","","Maus-Empfindlichkeit"
+"X Axis","","X-Achse"
+"Y Axis","","Y-Achse"
+"Legend","","Legende"
+"Labels","","Labels"
+"GridColor","","Gridcolor"
+"LabelsColor","","LabelsColor"
+"HighlightColor","","Hervorhebungsfarbe"
+"Compare","","Vergleichen"
+"Scripting","","Scripting"
+"Paths","","Paths"
+"Scripts","","Scripts"
+"Ambience","","Ambiente"
+"Presets","","Presets"
+"Grid","","Gitter"
+"Opacity","","Opazität"
+"3D Labels","","3D-Labels"
+"Icons","","Icons"
+"Trails","","Trails"
+"Context","","Kontext"
+"Width","","Breite"
+"Length","","Länge"
+"Intensity","","Intensität"
+"Orbits","","Orbits"
+"Orbit Context","","Orbit Context"
+"Orbit Width","","Orbit Breite"
+"Orbit Intensity","","Orbit Intensity"
+"Projected Paths","","projizierte Paths"
+"Rays","","rays"
+"Long/Latitude Lines","","Lang / Latitude Linien"
+"Velocity Lines","","Geschwindigkeitslinien"
+"Lighting Mode","","Beleuchtungsmodus"
+"Light Intensity","","Lichtintensität"
+"Body Colors","","Körperfarben"
+"Habitable Zones","","bewohnbare Zonen"
+"SPH - Hidden in Build","","SPH - Versteckt in Build"
+"SPH Display Mode","","SPH-Anzeigemodus"
+"SPH Sample Mode","","SPH Sample Mode"
+"SPH Render Mode","","SPH-Rendermodus"
+"View","","Aussicht"
+"Simulation","","Simulation"
+"Help","","Hilfe"
+"Edit","","Bearbeiten"
+"home","","Zuhause"
+"select","","wählen"
+"edit","","bearbeiten"
+"add","","hinzufügen"
+"powers","","Befugnisse"
+"script","","Skript"
+"play_pause","","Spielpause"
+"sim","","sim"
+"view","","Aussicht"
+"chart","","Diagramm"
+"standard","","Standard"
+"find","","finden"
+"help","","Hilfe"
+"feedback","","Feedback"
+"profiler","","Profiler"
+"restart","","Neustart"
+"Time","","Zeit"
+"increase","","erhöhen, ansteigen"
+"decrease","","verringern"
+"Gravity","","Schwere"
+"Tolerance","","Toleranz"
+"IntegratorId","","IntegratorId"
+"IntegrationMode","","IntegrationMode"
+"Compute Device","","Compute Geräte"
+"Accuracy","","Richtigkeit"
+"Collisions","","Collisions"
+"Enable Collisions","","Aktivieren Collisions"
+"Collision Mode","","Kollisionsmodus"
+"MaintainCenterOfMass","","MaintainCenterOfMass"
+"SlidingMotionDampning","","SlidingMotionDampning"
+"AbsorptionRadiusScalar","","AbsorptionRadiusScalar"
+"ShockWaveRangeMultiplier","","ShockWaveRangeMultiplier"
+"ShockWaveGradualEnergyScalar","","ShockWaveGradualEnergyScalar"
+"FragmentRandomVelocityScale","","FragmentRandomVelocityScale"
+"FragmentRandomAngularVelocityScale","","FragmentRandomAngularVelocityScale"
+"LossRatio","","Verlustrate"
+"EjectionVelocityRandomScalar","","EjectionVelocityRandomScalar"
+"OrthogonalEjectionVelocityScalar","","OrthogonalEjectionVelocityScalar"
+"EjectionVelocityScalar","","EjectionVelocityScalar"
+"Particle Density","","Teilchendichte"
+"Pause on Collision","","Pause auf Kollisions"
+"Volatile Tails","","Volatile Tails"
+"Comets","","Kometen"
+"Comet Tail Acceleration Multiplier","","Kometenschweif Acceleration Multiplier"
+"Stellar Flares","","Stellar Flares"
+"Flare Frequency Multiplier","","Flare Frequency Multiplier"
+"Flare Duration Multiplier","","Flare Dauer Multiplier"
+"Tides","","Gezeiten"
+"Tidal Heating","","Tidal Heizung"
+"Bodies heat through friction when they are deformed by tidal forces","","Körper Wärme durch Reibung, wenn sie durch die Gezeitenkräfte verformt werden"
+"Tidal Heating Multiplier as Log","","Tidal Heizung Multiplier als Log"
+"Multiply the effect of tidal heating","","Multiplizieren die Wirkung der Gezeiten Heizung"
+"Coming in a Future Update","","Kommen in einem zukünftigen Update"
+"Tidal Evolution","","Tidal-Evolution"
+"The orbit and rotation of a body is affected by tidal forces","","Die Bahn und die Drehung eines Körpers wird durch die Gezeitenkräfte betroffen"
+"Tidal Evolution Multiplier","","Tidal Entwicklung Multiplier"
+"Multiply the effect of tidal evolution","","Multiplizieren Sie die Wirkung der Gezeiten Evolution"
+"Universal Drag","","universal-Drag"
+"Totally fake effect - as if there were atmosphere everywhere to cause drag","","Völlig gefälschte Wirkung - als ob es die Atmosphäre war überall verursachen ziehen"
+"Drag Reference Frame","","Ziehen Referenzrahmen"
+"Density of Space","","Dichte des Raumes"
+"Drag Coefficient","","Luftwiderstandsbeiwert"
+"Actions","","Aktionen"
+"Reverse All Velocities","","Rückwärts alle Geschwindigkeiten"
+"Halt All Velocities","","Halt alle Geschwindigkeiten"
+"Halt All Rotations","","Halt alle Rotationen"
+"+2% All Velocities","","+ 2% Alle Geschwindigkeiten"
+"-2% All Velocities","","-2% Alle Geschwindigkeiten"
+"+2% All Rotations","","+ 2% Alle Rotationen"
+"-2% All Rotations","","-2% Alle Rotationen"
+"Balance Simulation Momentum","","Balance Simulation Momentum"
+"Delete All Particles/Dust","","Löschen Alle Partikel / Staub"
+"Delete All Fragments","","Löschen Alle Fragmente"
+"Delete All Trail Data","","Alle löschen Trail Daten"
+"Auto Orbit","","Auto Orbit"
+"Focus on Center Body","","Konzentrieren Sie sich auf Center Körper"
+"Expand - Not in Steam","","Expand - Nicht im Dampf"
+"Shrink - Not in Steam","","Shrink - Nicht im Dampf"
+"Stats","","Info & Statistiken"
+"Body Count","","Zählung der Toten"
+"Simulated","","Simuliert"
+"NonSimulated","","NonSimulated"
+"Attracting","","anziehenden"
+"NonAttracting","","NonAttracting"
+"Star Count","","Anzahl Sterne"
+"Mass","","Masse"
+"Velocity","","Geschwindigkeit"
+"Momentum","","Schwung"
+"General","","Allgemeines"
+"Show Trail","","Show Trail"
+"Show Orbit","","Zeige Orbit"
+"Name","","Name"
+"Radius","","Radius"
+"Density","","Dichte"
+"Age","","Alter"
+"Surface Temperature","","Oberflächentemperatur"
+"Surface temperature of the body","","Die Oberflächentemperatur des Körpers"
+"Total Velocity","","Total Velocity"
+"Relative Total Velocity","","Relative Total Velocity"
+"Relative Body","","Relative Körper"
+"Orbital Parent","","Orbital Elternteil"
+"The body that this body orbits","","Der Körper, dass dieser Körper Bahnen"
+"Rotational Period","","Rotationsperiode"
+"Amount of time it takes for this body to spin once","","Höhe der Zeit, die für diese Stelle einmal drehen"
+"Position Lock","","Position Lock"
+"Tidally Lock","","gezeitenSchloss"
+"Display Settings","","Bildschirmeinstellungen"
+"Hide Rotation","","ausblenden Rotation"
+"Display Mode","","Anzeigemodus"
+"DisplayFlags","","DisplayFlags"
+"Axis","","Achse"
+"Obliquity","","Schiefe"
+"Angle between rotation axis and orbital plane","","Winkel zwischen Drehachse und Umlaufbahnebene"
+"Argument of Obliquity","","Argument von Obliquity"
+"Defines where in the orbit the rotation axis points","","Definiert, wo in der Umlaufbahn der Drehachse Punkte"
+"Orbital Elements","","Orbital Elements"
+"Semi-Major Axis","","Halbachse"
+"The typical distance from the orbital parent body","","Der typische Abstand von dem Orbital-Grundkörper"
+"Eccentricity","","Exzentrizität"
+"How circular (0) to not circular (1) the orbit is","","Wie Kreis (0) nicht kreisförmige (1) die Umlaufbahn ist,"
+"Inclination","","Neigung"
+"Angle between the orbital plane and a reference plane","","Winkel zwischen der Bahnebene und einer Referenzebene"
+"Argument of Periapsis","","Argument von Periapsis"
+"Describes the orientation of the orbital plane - where the closest approach point is","","Beschreibt die Ausrichtung der Bahnebene - wo der nächste Annäherungspunkt ist"
+"Right Ascension of the Ascending Node","","Rektaszension des aufsteigenden Knoten"
+"Where the orbit passes upward through the reference frame","","Wo die Bahn verläuft nach oben durch den Referenzrahmen"
+"Mean Anomaly","","Mittlere Anomaly"
+"Where in the orbit the body currently is","","Wo in der Umlaufbahn zur Zeit der Körper"
+"Orbital Period","","Umlaufzeit"
+"Amount of time it takes for the body to orbit its parent","","Höhe der Zeit, die für den Körper seiner Eltern in den Orbit"
+"Periapsis Distance","","Periapsis Entfernung"
+"Distance of closest approach","","Die Entfernung der nächsten Annäherung"
+"Apoapsis Distance","","Apoapsis Entfernung"
+"Distance of furthest approach","","Die Entfernung des am weitesten Ansatz"
+"Temperature","","Temperatur"
+"Tidal Power","","Gezeitenkraft"
+"Amount of energy per second from tidal heating","","Menge an Energie, die pro Sekunde von Gezeitenheizung"
+"Radiative Power","","Strahlungsleistung"
+"Amount of energy per second absorbed from radiative sources","","Energiemenge pro Sekunde von Strahlungsquellen absorbiert"
+"Effective Temperature","","Effektive Temperatur"
+"Calculated from all heating sources","","von allen Wärmequellen berechnet"
+"Dynamic","","dynamisch"
+"Position","","Position"
+"Orientation","","Orientierung"
+"AngularVelocity","","Winkelgeschwindigkeit"
+"SubStepCount","","SubStepCount"
+"Camera Relative","","Kamera Relative"
+"Normalized Light Curve","","Normalisierten Licht Curve"
+"Fraction of star light reaching the camera","","Die Fraktion von Sternlicht erreicht die Kamera"
+"Radial Velocity","","Radialgeschwindigkeit"
+"Speed of selected object toward or away from the camera","","Geschwindigkeit des ausgewählten Objekts zu oder weg von der Kamera"
+"Camera Inclination","","Kamera Neigungs"
+"Angle between plane and camera position","","Winkel zwischen der Ebene und der Kameraposition"
+"Camera Azimuth","","Kamera Azimuth"
+"Camera Rotation Angle","","Kamera Drehwinkel"
+"Albedo","","Albedo"
+"Reflectivity of the body from 0-1","","Reflectivity des Körpers von 0 bis 1"
+"Albedo Feedback","","Albedo"
+"Greenhouse Effect","","Treibhauseffekt"
+"How Much Warmer Than Without an Atmosphere","","Wie viel wärmer als ohne Atmosphäre"
+"Atmosphere Mass","","Atmosphäre Massen"
+"Surface Pressure","","Flächenpressung"
+"Scale Height","","Skalenhöhe"
+"Enable Climate","","Aktivieren Klima"
+"Temperature Depends on Latitude","","Temperatur hängt von Latitude"
+"Optimize for Climate View","","Optimieren für Klima anzeigen"
+"Show Atmosphere","","Show-Atmosphäre"
+"Show Clouds","","Show Wolken"
+"Heat Capacity of Air","","Wärmekapazität der Luft"
+"Heat Capacity of Air + Ocean Mixed Layer","","Wärmekapazität von Air + Ocean Mischschicht"
+"Land-Ocean Heat Coupling Factor","","Land-Ocean-Wärme-Kopplung Factor"
+"Equator-to-Pole Diffusion","","Äquator-to-Pole Diffusion"
+"Simulate Hadley Cell","","Simulieren Hadley Zelle"
+"Reset Climate to Default","","Zurücksetzen Klima auf Standard"
+"Defines direction the rotation axis points","","Definiert Richtung der Drehachse Punkte"
+"Avg. Distance to Star","","Durchschn. Entfernung zum Stern"
+"The average distance to the Sun","","Die durchschnittliche Entfernung zur Sonne"
+"Cumulative Properties","","kumulative Eigenschaften"
+"Debug Tools","","Debug-tools"
+"RadiusTuningFactor","","RadiusTuningFactor"
+"disableInterpolation","","disableInterpolation"
+"linkMassToBody","","linkMassToBody"
+"linkRadiusToBody","","linkRadiusToBody"
+"linkAtmosphere","","linkAtmosphere"
+"PastType","","PastType"
+"PresentType","","PresentType"
+"FutureType","","FutureType"
+"Transition","","Übergang"
+"Category","","Kategorie"
+"Base","","Base"
+"Celestial","","himmlisch"
+"ChartComponent","","ChartComponent"
+"OrbitalElements","","OrbitalElements"
+"AppearanceComponent","","AppearanceComponent"
+"Composition","","Zusammensetzung"
+"DustParticleTail","","DustParticleTail"
+"IonTail","","IonTail"
+"TrailComponent","","TrailComponent"
+"ClimateComponent","","ClimateComponent"
+"Persistence","","Beharrlichkeit"
+"Save this object","","Speichern Sie dieses Objekt"
+"Open Bodies Folder","","Offene Stellen Ordner"
+"Misc","","Verschiedenes"
+"Launch Fireworks","","Starten Sie Fireworks"
+"Zero Velocity","","Null-Geschwindigkeit"
+"Explosion","","Explosion"
+"Energy","","Energie"
+"Mars","","Mars"
+"Find","","Finden"
+"All","","Alle"
+"Internal","","intern"
+"Bugs","","Bugs"
+"Old Internal","","Old Internal"
+"Solar Sys","","Solar-Sys"
+"Planets","","Planets"
+"Exoplanets","","Exoplaneten"
+"Supernovas","","Supernovae"
+"Stress Tests","","Stresstests"
+"Experiments","","Experimente"
+"Human Scale","","Menschlichen Maßstab"
+"Other Tests","","Weitere Tests"
+"My Sims","","My Sims"
+"Choreo","","Choreo"
+"Systems","","Systeme"
+"Galaxies","","Galaxies"
+"Encounters","","Begegnungen"
+"Grids","","Grids"
+"Chaotic Orbits","","chaotische Orbits"
+"Stars","","Sterne"
+"Minor","","Geringer"
+"Black Holes","","Schwarze Löcher"
+"Common","","Verbreitet"
+"Moons","","Moons"
+"Objects","","Objekte"
+"User Objects","","Benutzerobjekte"
+"Rings","","Ringe"
+"1D","","1D"
+"2D","","2D"
+"3D","","3D"
+"Procedural","","Procedural"
+"Textured","","Strukturierter"
+"Planet","","Planet"
+"Basic","","Basic"
+"Materials","","Materialien"
+"Orcus","","Orcus"
+"Climate","","Klima"
+"Copy Language Keys to Clipboard","","Kopieren Sprache Keys to Clipboard"
+"High","","Hoch"
+"Medium","","Mittel"
+"Low","","Niedrig"
+"Off","","aus"
+"  2x   Multisampling","","  2x Multisampling"
+"  4x   Multisampling","","  4x Multisampling"
+"  8x   Multisampling","","  8x Multisampling"
+"Realistic","","Realistisch"
+"Wireframe","","Drahtgitter-"
+"Retro","","Retro"
+"Sketchbook","","Skizzenbuch"
+"Relief","","Linderung"
+"Underwater","","Unterwasser-"
+"Selected","","Ausgewählt"
+"Auto","","Auto"
+"Studio","","Studio"
+"Flash Light","","Blitzlicht"
+"Acceleration","","Beschleunigung"
+"Physics","","Physik"
+"Flat","","Eben"
+"Billboard","","Reklametafel"
+"Cross","","Kreuz"
+"Color","","Farbe"
+"Pressure","","Druck"
+"Gauss","","Gauss"
+"Circular","","Kreisförmig"
+"Additive","","Zusatzstoff"
+"Alpha","","Alpha"
+"Time +","","Time +"
+"TimeStepModeDependant","","TimeStepModeDependant"
+"Euler Explicit","","Euler Explicit"
+"Euler Semi Implicit","","Euler Semi Implizite"
+"RK2","","RK2"
+"RK4","","RK4"
+"RKF","","RKF"
+"Velocity Verlet","","Geschwindigkeit Verlet"
+"Forest Ruth","","Wald Ruth"
+"PEFRL","","PEFRL"
+"Fixed","","Fest"
+"Global Adaptive","","globale Adaptive"
+"Enable Fragments","","Aktivieren Fragmente"
+"Awesome","","Genial"
+"Barycenter","","barycenter"
+"Most Massive Body","","Massivste Körper"
+"Fixed Grid","","feste Gitter"
+"Info & Stats","","Info & Statistiken"
+"Default","","Standard"
+"Elevation","","Elevation"
+"Surface Features","","Oberflächeneigenschaften"
+"None","","Keiner"
+"Trail","","Weg"
+"Orbit","","Orbit"
+"Prefab","","Prefab"
+"Black Hole","","Schwarzes Loch"
+"Star","","Star"
+"Gas Giant","","Gasriese"
+"Terrestrial Planet","","Terrestrischer Planet"
+"Planetoid","","Planetoid"
+"Physics Object","","Physik Objekt"
+"Lock Position","","Position sperren"
+"Collider","","Collider"
+"Collider Group Major","","Collider Gruppe Dur"
+"Gravity Attracting","","Gravity Attracting"
+"Fragmenting","","Fragmentierungs"
+"Momentum Less","","Momentum Weniger"
+"Collision","","Kollision"
+"Timeout","","Auszeit"
+"Protocol","","Protokoll"
+"Nova","","Nova"
+"Deletion","","Streichung"
+"Regular","","Regulär"
+"Brown Dwarf","","Brown Dwarf"
+"White Dwarf","","Weißer Zwerg"
+"Neutron Star","","Neutronenstern"
+"DEFAULT","","STANDARD"
+"FRAGMENTATION","","ZERSPLITTERUNG"
+"Rock","","Rock"
+"Terran","","Terran"
+"Desert","","Wüste"
+"Ice","","Eis"
+"Local Laplace","","lokale Laplace"
+"Ecliptic","","Ekliptik"
+"Equatorial","","äquatorial"
+"Charon","","Charon"
+"RCP8 5","","RCP8 5"
+"RCP6","","RCP6"
+"RCP4 5","","RCP4 5"
+"RCP2 6","","RCP2 6"
+"Levels","","Levels"
+"Seed","","Samen"
+"StarIntensity","","StarIntensity"
+"Brightness","","Helligkeit"
+"Contrast","","Kontrast"
+"Saturation","","Sättigung"
+"ClampToHorizon","","ClampToHorizon"
+"Colors","","Farben"
+"BaseColor","","Grundfarbe"
+"Color1","","color1"
+"Color2","","Farbe2"
+"Solid Color","","Einfarbig"
+"Texture","","Textur"
+"Mode","","Modus"
+"Manual","","Handbuch"
+"Automatic","","automatisch"
+"AmbientLight","","Umgebungslicht"
+"Manual Ambient Color","","Manuell Umgebungsfarbe"
+"Ambient Brightness","","Umgebungshelligkeit"
+"BackgroundRotation","","BackgroundRotation"
+"BackgroundTextureSource","","BackgroundTextureSource"
+"Save as...","","Speichern als..."
+"StartDate","","Anfangsdatum"
+"StartPaused","","StartPaused"
+"Body A","","Körper A"
+"Rotation Period","","Rotationsperiode"
+"Body B","","Körper B"
+"Collider Count","","Collider Graf"
+"Sec Before Collision (real time)","","Sec vor der Kollision (Echtzeit)"
+"Pos H Offset in Rad A","","Po H Offset in Rad A"
+"Pos V Offset in Rad A","","Pos V Offset in Rad A"
+"Angle H","","Winkel H"
+"Angle V","","Winkel V"
+"Time Between Colliders","","Time Between Colliders"
+"System","","System"
+"A + B Groups","","A + B-Gruppen"
+"Time Offset Each Group","","Zeitversatz Jede Gruppe"
+"Collision Resolution","","Kollisionsauflösung"
+"Velocity X","","Geschwindigkeit X"
+"Velocity Y","","Geschwindigkeit Y"
+"Velocity Z","","Geschwindigkeit Z"
+"Time Step Rate","","Time Step Rate"
+"Real Time","","Echtzeit"
+"Time Step Mode","","Time Step-Modus"
+"Reset Camera","","Kamera zurücksetzen"
+"Options","","Optionen"
+"Initialize Climate","","initialisieren Klima"
+"Body","","Karosserie"
+"Separation in Radii","","Trennung in Radii"
+"Upward Velocity Scale","","Aufwärtsgeschwindigkeitsskala"
+"Randomize","","randomize"
+"Randomize Mass","","randomize Massen"
+"Perturb Pos in Radii","","Perturb Pos in Radii"
+"Rate","","Bewertung"
+"Integrator","","Integrator"
+"Random Seed","","Random Seed"
+"Center Body","","Center Körper"
+"NumberOfGasGiants","","NumberOfGasGiants"
+"NumberOfPlanets","","NumberOfPlanets"
+"NumberOfMoons","","NumberOfMoons"
+"NumberOfSmallMoons","","NumberOfSmallMoons"
+"Min Planet Distance By Star Radius ","","Min Planet Entfernung von Stern Radius"
+"Max Planet Distance By Star Radius ","","Max Planet Entfernung von Stern Radius"
+"Max Random Inclination of Planets","","Max Zufalls Neigung der Planeten"
+"NumOfGalaxies","","NumOfGalaxies"
+"numberOfParticles","","numberOfParticles"
+"numberDMParticles","","numberDMParticles"
+"relativeSize","","relative Größe"
+"includeDarkMatter","","includeDarkMatter"
+"E0","","E0"
+"E1","","E1"
+"E2","","E2"
+"E3","","E3"
+"E4","","E4"
+"E5","","E5"
+"E6","","E6"
+"E7","","E7"
+"S0","","S0"
+"Sa","","Sa"
+"Sb","","Sb"
+"Sc","","Sc"
+"S Ba","","S Ba"
+"S Bb","","S Bb"
+"S Bc","","S Bc"
+"GalaxyType","","GalaxyType"
+"SpiralArms","","SpiralArms"
+"ArmAngle","","ArmAngle"
+"Arrange","","Ordnen"
+"Inner Radius","","Innenradius"
+"Outer Radius","","Äußerer Radius"
+"Right Height","","rechts Höhe"
+"Geo","","Geo"
+"Radius Units","","Radius-Einheiten"
+"Auto Bounds","","Auto Bounds"
+"Automatically compute realistic inner and outer boundaries","","berechnen automatisch realistische inneren und äußeren Begrenzungen"
+"Show ring gaps","","Lücken anzeigen Ring"
+"Include gaps in rings causd by unstable resonances with orbiting bodies","","Fügen Sie Lücken in den Ringen Causd durch instabilen Resonanzen mit umlaufenden Körpern"
+"Rectangle","","Rechteck"
+"Ring","","Ring"
+"Sphere","","Kugel"
+"Box","","Box"
+"Spiral","","Spiral"
+"Torus","","Wulst"
+"Shape","","Gestalten"
+"Fill","","Füllen"
+"Surface","","Oberfläche"
+"Ordered","","bestellt"
+"Random","","Zufällig"
+"Spacing","","Abstand"
+"Linear","","Linear"
+"Quadratic","","quadratisch"
+"Cubic","","kubisch"
+"Exponential","","Exponentiell"
+"Spriral Type","","spriral Typ"
+"Spriral Revolutions","","spriral Revolutionen"
+"Solar System","","Sonnensystem"
+"Date","","Datum"
+"Start","","Anfang"
+"Encounter","","Begegnung"
+"Date Meaning","","Datum Bedeutung"
+"Dwarfs And Major Asteroids","","Zwerge und Major Asteroids"
+"Dwarfs And Asteroids","","Zwerge und Asteroids"
+"Dwarfs And Many Asteroids","","Zwerge und viele Asteroids"
+"Asteroids & Dwarfs","","Asteroids & Zwerge"
+"Earths Moon","","Earths Mond"
+"Major Moons","","Wichtige Moons"
+"All Moons","","Alle Monde"
+"Just Saturn","","nur Saturn"
+"Visitor","","Besucher"
+"Include Rogue Body","","Fügen Sie Rogue Körper"
+"Rogue Body","","Rogue Körper"
+"Use Different Mass","","Verwenden Sie unterschiedliche Masse"
+"Body Mass","","Körpermasse"
+"Distance from Aim Point","","Entfernung vom Zielpunkt"
+"Aim Target","","Ziel Ziel"
+"Aim Point X Offset","","Zielpunkt X Offset"
+"Aim Point Y Offset","","Zielpunkt Y-Versatz"
+"1 - Delete Rogue Body","","1 - Löschen Rogue Körper"
+"2 - Balance Simulation Momentum","","2 - Balance Simulation Momentum"
+"3 - Delete All Trail Data","","3 - Alle löschen Trail Daten"
+"Copy Settings to Clipboard","","Einstellungen kopieren kopieren"
+"MassValues","","MassValues"
+"Mass Low","","Masse Low"
+"Mass High","","Massenhigh"
+"Mass Logarithmic","","Masse logarithmisch"
+"TempValues","","TempValues"
+"Temperature Low","","Temperatur Nieder"
+"Temperature High","","Hochtemperatur"
+"Temperature Logarithmic","","Temperatur logarithmisch"
+"Fragment","","Fragment"
+"Body Type","","Körpertyp"
+"Four Materials","","vier Materialien"
+"viewAngle","","viewAngle"
+"Sun","","Sonne"
+"Semi Major Axis","","Semi Hauptachse"
+"Right Asc Of Asc Node","","Rechts Asc Asc Knoten"
+"Arg Of Perigee","","Arg Of Perigee"
+"Earth","","Earth"
+"NEW REGULAR","","THIS IS NEW ENGLISH REGULAR"
