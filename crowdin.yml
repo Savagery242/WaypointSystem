@@ -1,5 +1,5 @@
 files:
-  - source: /Assets/Localization/Translations.csv
-    translation: /Assets/Localization/Translations/Languages/%two_letters_code%
+  - source: /Assets/Localization/Translations/
+    translation: /Assets/Localization/Translations/%two_letters_code%.csv
     first_line_contains_header: '1'
-    scheme: 'identifier,source_or_translation'
+    scheme: 'identifier,context,source_or_translation'
