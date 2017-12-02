@@ -1,0 +1,629 @@
+Keys,Context,JA
+Close Window,,ウィンドウを閉じる
+Keep Panel Open,,パネルオープンにしてください
+Switch to grid view,,グリッドビューに切り替え
+Home,,家
+Editor Only,,エディタのみ
+Save Language Keys,,言語キーを保存
+Generate Thumbnails,,サムネイルを生成
+File,,ファイル
+New...,,新しい...
+Open...,,開いた...
+Create...,,作成...
+Save...,,セーブ...
+Show My Simulation Folder,,私のシミュレーションフォルダを表示します
+Restart Simulation,,再起動シミュレーション
+Activities,,活動
+Introduction,,前書き
+Climate Intro,,気候イントロ
+Exploring the Solar Neighborhood,,太陽の近所を探ります
+Eccentricity Intro,,偏心イントロ
+Phases of the Moon,,盈虧
+Feedback,,フィードバック
+Run Performance Test,,ファイル名を指定して実行性能試験
+Send Feedback,,フィードバックを送信
+Show Log File in Folder,,フォルダ内のログファイルを表示します
+Open Log File,,ログファイルを開きます
+Open Crash Dump Location,,オープンクラッシュダンプの場所
+Experimental,,実験的
+Hands Free Demo,,ハンズフリーデモ
+Toggle VR Mode,,トグルVRモード
+Tools,,ツール
+Graphs,,グラフ
+Profiler,,プロファイラ
+Compare Objects,,オブジェクトを比較
+Links,,リンク
+What's New,,新着情報
+Credits,,クレジット
+Forum,,フォーラム
+Troubleshooting,,トラブルシューティング
+Exit,,出口
+Main,,メイン
+Open,,開いた
+Create,,作ります
+Core,,コア
+Graphics Quality,,グラフィックの質
+Video,,ビデオ
+Texture Resolution,,テクスチャ解像度
+Filtering Quality,,フィルタリングの品質
+Effects Quality,,効果の品質
+Antialiasing,,アンチエイリアシング
+Vertical Sync,,垂直同期
+Shadows,,影
+Decals,,デカール
+Glows,,光ります
+Extra Particles,,エクストラ粒子
+Displacement Mapping,,ディスプレースメントマッピング
+Render Mode,,レンダリングモード
+Volume,,ボリューム
+Master Volume,,マスターボリューム
+Music Volume,,音楽の音量
+Input,,入力
+Invert Scroll Wheel,,反転スクロールホイール
+Use Controller,,コントローラを使用
+Performance,,演奏
+Use multi-core,,マルチコアを使用します
+Pause on low FPS,,低FPSに一時停止
+Low FPS Threshold,,低FPSしきい値
+Max Attracting Bodies,,マックスは、ボディを誘致します
+Max Non-Attracting Bodies,,マックス非誘致機関
+Max Decals,,マックス・デカール
+Debug,,デバッグ
+Debug Info,,デバッグ情報
+Attractor Lines,,アトラクタライン
+Impact Lines,,インパクトライン
+linkMassToBodyDefault,,linkMassToBodyDefault
+linkRadiusToBodyDefault,,linkRadiusToBodyDefault
+linkAtmosphereDefault,,linkAtmosphereDefault
+TargetFrameRate,,TargetFrameRate
+Window Resolution,,ウィンドウの解像度
+Reset,,リセット
+Settings,,設定
+Add,,加えます
+Powers,,パワーズ
+Chart,,チャート
+Properties,,プロパティ
+Each Frame,,各フレーム
+On Demand,,オンデマンド
+Graph,,グラフ
+Timespan,,期間
+X Value,,X値
+X Unit,,Xユニット
+Y Value,,Y値
+Y Unit,,Yユニット
+Advanced,,高度
+MouseSensitivity,,マウス感度
+X Axis,,X軸
+Y Axis,,Y軸
+Legend,,伝説
+Labels,,ラベル
+GridColor,,GridColor
+LabelsColor,,LabelsColor
+HighlightColor,,HighlightColor
+Compare,,比較します
+Scripting,,スクリプティング
+Paths,,パス
+Scripts,,スクリプト
+Ambience,,雰囲気
+Presets,,プリセット
+Grid,,グリッド
+Opacity,,不透明度
+3D Labels,,3Dラベル
+Icons,,アイコン
+Trails,,トレイル
+Context,,コンテキスト
+Width,,幅
+Length,,長さ
+Intensity,,強
+Orbits,,軌道
+Orbit Context,,オービットコンテキスト
+Orbit Width,,軌道幅
+Orbit Intensity,,オービット強度
+Projected Paths,,写し出されたパス
+Rays,,レイズ
+Long/Latitude Lines,,ロング/緯線
+Velocity Lines,,ベロシティライン
+Lighting Mode,,点灯モード
+Light Intensity,,光強度
+Body Colors,,ボディカラー
+Habitable Zones,,居住ゾーン
+SPH - Hidden in Build,,SPH  - ビルドに隠されました
+SPH Display Mode,,SPH表示モード
+SPH Sample Mode,,SPHサンプルモード
+SPH Render Mode,,SPHは、レンダリングモード
+View,,ビュー
+Simulation,,シミュレーション
+Help,,助けて
+Edit,,編集します
+home,,家
+select,,選択
+edit,,編集します
+add,,加えます
+powers,,権力
+script,,スクリプト
+play_pause,,play_pause
+sim,,シム
+view,,ビュー
+chart,,チャート
+standard,,標準
+find,,見つけます
+help,,助けて
+feedback,,フィードバック
+profiler,,プロファイラ
+restart,,再起動
+Time,,時間
+increase,,増加する
+decrease,,減少
+Gravity,,重力
+Tolerance,,トレランス
+IntegratorId,,IntegratorId
+IntegrationMode,,IntegrationMode
+Compute Device,,計算デバイス
+Accuracy,,正確さ
+Collisions,,衝突
+Enable Collisions,,衝突を有効にします
+Collision Mode,,衝突モード
+MaintainCenterOfMass,,MaintainCenterOfMass
+SlidingMotionDampning,,SlidingMotionDampning
+AbsorptionRadiusScalar,,AbsorptionRadiusScalar
+ShockWaveRangeMultiplier,,ShockWaveRangeMultiplier
+ShockWaveGradualEnergyScalar,,ShockWaveGradualEnergyScalar
+FragmentRandomVelocityScale,,FragmentRandomVelocityScale
+FragmentRandomAngularVelocityScale,,FragmentRandomAngularVelocityScale
+LossRatio,,LossRatio
+EjectionVelocityRandomScalar,,EjectionVelocityRandomScalar
+OrthogonalEjectionVelocityScalar,,OrthogonalEjectionVelocityScalar
+EjectionVelocityScalar,,EjectionVelocityScalar
+Particle Density,,粒子密度
+Pause on Collision,,衝突で一時停止
+Volatile Tails,,揮発性テイルス
+Comets,,彗星
+Comet Tail Acceleration Multiplier,,コメットテール加速乗数
+Stellar Flares,,ステラフレア
+Flare Frequency Multiplier,,フレア周波数逓倍器
+Flare Duration Multiplier,,フレア期間乗数
+Tides,,タイズ
+Tidal Heating,,潮汐加熱
+Bodies heat through friction when they are deformed by tidal forces,,彼らは潮汐力によって変形されたときに体が摩擦によって熱
+Tidal Heating Multiplier as Log,,ログとして潮汐加熱乗数
+Multiply the effect of tidal heating,,潮の加熱の影響を掛け
+Coming in a Future Update,,将来のアップデートで来ます
+Tidal Evolution,,潮汐進化
+The orbit and rotation of a body is affected by tidal forces,,体の軌道と回転は潮汐力の影響を受けています
+Tidal Evolution Multiplier,,潮汐進化乗数
+Multiply the effect of tidal evolution,,潮の進化の影響を掛け
+Universal Drag,,ユニバーサルドラッグ
+Totally fake effect - as if there were atmosphere everywhere to cause drag,,完全フェイク効果 - ドラッグを引き起こすどこでも雰囲気があったかのように
+Drag Reference Frame,,ドラッグ基準フレーム
+Density of Space,,空間の密度
+Drag Coefficient,,抗力係数
+Actions,,行動
+Reverse All Velocities,,すべての速度をリバース
+Halt All Velocities,,すべての速度を停止
+Halt All Rotations,,すべての回転を停止し
++2% All Velocities,,+ 2％のすべてのベロシティ
+-2% All Velocities,,-2％のすべてのベロシティ
++2% All Rotations,,+ 2％のすべてのローテーション
+-2% All Rotations,,-2％のすべてのローテーション
+Balance Simulation Momentum,,バランスシミュレーション勢い
+Delete All Particles/Dust,,すべての粒子/ダストを削除します。
+Delete All Fragments,,すべてのフラグメントを削除します。
+Delete All Trail Data,,すべてのトレイルのデータを削除します。
+Auto Orbit,,オート軌道
+Focus on Center Body,,中心体に焦点を当てます
+Expand - Not in Steam,,展開 - 未スチームで
+Shrink - Not in Steam,,シュリンク - 未スチームで
+Stats,,情報＆統計
+Body Count,,死者数
+Simulated,,シミュレー
+NonSimulated,,NonSimulated
+Attracting,,誘致
+NonAttracting,,NonAttracting
+Star Count,,スターカウント
+Mass,,質量
+Velocity,,速度
+Momentum,,弾み
+General,,一般的な
+Show Trail,,ショートレイル
+Show Orbit,,表示オービット
+Name,,名
+Radius,,半径
+Density,,密度
+Age,,年齢
+Surface Temperature,,表面温度
+Surface temperature of the body,,体の表面温度
+Total Velocity,,合計速度
+Relative Total Velocity,,相対速度の合計
+Relative Body,,相対ボディ
+Orbital Parent,,軌道親
+The body that this body orbits,,ボディ、このボディ軌道
+Rotational Period,,回転周期
+Amount of time it takes for this body to spin once,,それが一度にスピンし、このボディのにかかる時間
+Position Lock,,位置ロック
+Tidally Lock,,潮汐ロック
+Display Settings,,ディスプレイの設定
+Hide Rotation,,ローテーションを隠します
+Display Mode,,ディスプレイモード
+DisplayFlags,,DisplayFlags
+Axis,,軸
+Obliquity,,斜行
+Angle between rotation axis and orbital plane,,回転軸と軌道面との間の角度
+Argument of Obliquity,,傾角の引数
+Defines where in the orbit the rotation axis points,,ここで、軌道の回転軸ポイント定義
+Orbital Elements,,軌道要素
+Semi-Major Axis,,半長形
+The typical distance from the orbital parent body,,軌道母体からの典型的な距離
+Eccentricity,,偏心
+How circular (0) to not circular (1) the orbit is,,どのように円形（0）には、（1）軌道が円形でありません
+Inclination,,傾斜
+Angle between the orbital plane and a reference plane,,軌道面と基準面とのなす角度
+Argument of Periapsis,,近点引数
+Describes the orientation of the orbital plane - where the closest approach point is,,最接近点である - 軌道面の向きを記述する
+Right Ascension of the Ascending Node,,昇順ノードの右昇天
+Where the orbit passes upward through the reference frame,,軌道は、基準フレームを通って上方に通過する場合
+Mean Anomaly,,異常を意味します
+Where in the orbit the body currently is,,どこ軌道に体が現在であります
+Orbital Period,,公転周期
+Amount of time it takes for the body to orbit its parent,,それはその親を周回して、本体のにかかる時間
+Periapsis Distance,,近点距離
+Distance of closest approach,,最接近の距離
+Apoapsis Distance,,Apoapsis距離
+Distance of furthest approach,,遠いアプローチの距離
+Temperature,,温度
+Tidal Power,,潮力
+Amount of energy per second from tidal heating,,潮汐加熱から秒当たりのエネルギーの量
+Radiative Power,,放射パワー
+Amount of energy per second absorbed from radiative sources,,放射源から吸収された秒当たりのエネルギー量
+Effective Temperature,,効果的な温度
+Calculated from all heating sources,,全ての加熱源から計算
+Dynamic,,動的
+Position,,ポジション
+Orientation,,オリエンテーション
+AngularVelocity,,角速度
+SubStepCount,,SubStepCount
+Camera Relative,,カメラの相対
+Normalized Light Curve,,正規化されたライトカーブ
+Fraction of star light reaching the camera,,カメラに到達したスターライトの割合
+Radial Velocity,,半径方向速度
+Speed of selected object toward or away from the camera,,選択したオブジェクトの速度に向けてか、カメラから離れました
+Camera Inclination,,カメラの傾き
+Angle between plane and camera position,,平面とカメラ位置の間の角度
+Camera Azimuth,,カメラの方位
+Camera Rotation Angle,,カメラの回転角度
+Albedo,,アルベド
+Reflectivity of the body from 0-1,,0-1からの体の反射率
+Albedo Feedback,,アルベドフィードバック
+Greenhouse Effect,,温室効果
+How Much Warmer Than Without an Atmosphere,,どのくらいの雰囲気がなければより暖かいです
+Atmosphere Mass,,雰囲気マス
+Surface Pressure,,面圧
+Scale Height,,スケールの高さ
+Enable Climate,,気候を有効にします
+Temperature Depends on Latitude,,温度は緯度に依存します
+Optimize for Climate View,,気候ビューの最適化
+Show Atmosphere,,ショー雰囲気
+Show Clouds,,ショー雲
+Heat Capacity of Air,,空気の熱容量
+Heat Capacity of Air + Ocean Mixed Layer,,航空+海洋混合層の熱容量
+Land-Ocean Heat Coupling Factor,,国土海洋熱カップリングファクター
+Equator-to-Pole Diffusion,,赤道ツーポール拡散
+Simulate Hadley Cell,,ハドレー循環をシミュレート
+Reset Climate to Default,,デフォルトの気候をリセット
+Defines direction the rotation axis points,,方向回転軸点を定義
+Avg. Distance to Star,,平均。スターへの距離
+The average distance to the Sun,,日までの平均距離
+Cumulative Properties,,累積プロパティ
+Debug Tools,,デバッグツール
+RadiusTuningFactor,,RadiusTuningFactor
+disableInterpolation,,disableInterpolation
+linkMassToBody,,linkMassToBody
+linkRadiusToBody,,linkRadiusToBody
+linkAtmosphere,,linkAtmosphere
+PastType,,PastType
+PresentType,,PresentType
+FutureType,,FutureType
+Transition,,遷移
+Category,,カテゴリー
+Base,,ベース
+Celestial,,天の
+ChartComponent,,ChartComponent
+OrbitalElements,,OrbitalElements
+AppearanceComponent,,AppearanceComponent
+Composition,,組成
+DustParticleTail,,DustParticleTail
+IonTail,,IonTail
+TrailComponent,,TrailComponent
+ClimateComponent,,ClimateComponent
+Persistence,,固執
+Save this object,,このオブジェクトを保存
+Open Bodies Folder,,オープンボディフォルダ
+Misc,,その他
+Launch Fireworks,,花火を起動します
+Zero Velocity,,ゼロ速度
+Explosion,,爆発
+Energy,,エネルギー
+Mars,,火星
+Find,,検索
+All,,すべて
+Internal,,内部
+Bugs,,バグ
+Old Internal,,旧内部
+Solar Sys,,太陽のSys
+Planets,,惑星
+Exoplanets,,系外惑星
+Supernovas,,超新星
+Stress Tests,,ストレステスト
+Experiments,,実験
+Human Scale,,ヒューマンスケール
+Other Tests,,その他のテスト
+My Sims,,ぼくとシムのまち
+Choreo,,Choreo
+Systems,,システム
+Galaxies,,銀河
+Encounters,,出会い
+Grids,,グリッド
+Chaotic Orbits,,カオス軌道
+Stars,,スター
+Minor,,マイナー
+Black Holes,,ブラックホール
+Common,,一般
+Moons,,ムーンズ
+Objects,,オブジェクト
+User Objects,,ユーザーオブジェクト
+Rings,,リング
+1D,,1D
+2D,,2D
+3D,,3D
+Procedural,,手続き
+Textured,,テクスチャ
+Planet,,惑星
+Basic,,基本的な
+Materials,,材料
+Orcus,,オルクス
+Climate,,気候
+Copy Language Keys to Clipboard,,言語キーは、クリップボードにコピー
+High,,高い
+Medium,,中
+Low,,低いです
+Off,,オフ
+  2x   Multisampling,,  2倍マルチサンプリング
+  4x   Multisampling,,  4倍マルチサンプリング
+  8x   Multisampling,,  8倍速マルチサンプリング
+Realistic,,現実的
+Wireframe,,ワイヤーフレーム
+Retro,,レトロ
+Sketchbook,,スケッチブック
+Relief,,救済
+Underwater,,水中
+Selected,,選択
+Auto,,オート
+Studio,,スタジオ
+Flash Light,,フラッシュライト
+Acceleration,,加速度
+Physics,,物理
+Flat,,平らな
+Billboard,,看板
+Cross,,クロス
+Color,,色
+Pressure,,圧力
+Gauss,,ガウス
+Circular,,円形の
+Additive,,添加物
+Alpha,,アルファ
+Time +,,タイム+
+TimeStepModeDependant,,TimeStepModeDependant
+Euler Explicit,,明示的なオイラー
+Euler Semi Implicit,,オイラーセミ暗黙
+RK2,,RK2
+RK4,,RK4
+RKF,,RKF
+Velocity Verlet,,速度Verlet
+Forest Ruth,,森ルース
+PEFRL,,PEFRL
+Fixed,,一定
+Global Adaptive,,グローバル適応
+Enable Fragments,,フラグメントを有効にします
+Awesome,,驚くばかり
+Barycenter,,重心
+Most Massive Body,,ほとんどの大規模なボディ
+Fixed Grid,,固定グリッド
+Info & Stats,,情報＆統計
+Default,,デフォルト
+Elevation,,標高
+Surface Features,,表面の特徴
+None,,なし
+Trail,,トレイル
+Orbit,,軌道
+Prefab,,プレハブ
+Black Hole,,ブラックホール
+Star,,星
+Gas Giant,,巨大ガス
+Terrestrial Planet,,地球型惑星
+Planetoid,,小惑星
+Physics Object,,物理オブジェクト
+Lock Position,,ロックポジション
+Collider,,クライダー
+Collider Group Major,,衝突グループの主要
+Gravity Attracting,,重力誘致
+Fragmenting,,断片化
+Momentum Less,,運動量が少ないです
+Collision,,衝突
+Timeout,,タイムアウト
+Protocol,,プロトコル
+Nova,,新星
+Deletion,,削除
+Regular,,定期的な
+Brown Dwarf,,褐色矮星
+White Dwarf,,白色矮星
+Neutron Star,,中性子星
+DEFAULT,,デフォルト
+FRAGMENTATION,,および断片化
+Rock,,岩
+Terran,,テラン
+Desert,,砂漠
+Ice,,氷
+Local Laplace,,ローカルラプラス
+Ecliptic,,黄道
+Equatorial,,赤道の
+Charon,,カロン
+RCP8 5,,RCP8 5
+RCP6,,RCP6
+RCP4 5,,RCP4 5
+RCP2 6,,RCP2 6
+Levels,,レベル
+Seed,,シード
+StarIntensity,,StarIntensity
+Brightness,,輝度
+Contrast,,コントラスト
+Saturation,,飽和
+ClampToHorizon,,ClampToHorizo​​n
+Colors,,色
+BaseColor,,BaseColor
+Color1,,カラー1
+Color2,,カラー2
+Solid Color,,ソリッドカラー
+Texture,,テクスチャー
+Mode,,モード
+Manual,,マニュアル
+Automatic,,オートマチック
+AmbientLight,,AmbientLight
+Manual Ambient Color,,マニュアル周囲の色
+Ambient Brightness,,周囲の明るさ
+BackgroundRotation,,BackgroundRotation
+BackgroundTextureSource,,BackgroundTextureSource
+Save as...,,名前を付けて保存...
+StartDate,,開始日
+StartPaused,,StartPaused
+Body A,,ボディA
+Rotation Period,,ローテーション間隔
+Body B,,ボディB
+Collider Count,,衝突カウント
+Sec Before Collision (real time),,衝突前秒（リアルタイム）
+Pos H Offset in Rad A,,POS HはラッドAのオフセット
+Pos V Offset in Rad A,,POS VはラッドAのオフセット
+Angle H,,角度H
+Angle V,,角度V
+Time Between Colliders,,コライダー間の時間
+System,,システム
+A + B Groups,,+ Bグループ
+Time Offset Each Group,,時間は、各グループのオフセット
+Collision Resolution,,衝突解決
+Velocity X,,ベロシティーX
+Velocity Y,,速度Y
+Velocity Z,,ベロシティZ
+Time Step Rate,,時間ステップレート
+Real Time,,リアルタイム
+Time Step Mode,,時間ステップモード
+Reset Camera,,カメラをリセット
+Options,,オプション
+Initialize Climate,,気候を初期化します
+Body,,体
+Separation in Radii,,半径の分離
+Upward Velocity Scale,,上向きの速度スケール
+Randomize,,ランダム化
+Randomize Mass,,マスをランダム
+Perturb Pos in Radii,,半径の順位を混乱させる
+Rate,,レート
+Integrator,,インテグレータ
+Random Seed,,ランダムシード
+Center Body,,中心体
+NumberOfGasGiants,,NumberOfGasGiants
+NumberOfPlanets,,NumberOfPlanets
+NumberOfMoons,,NumberOfMoons
+NumberOfSmallMoons,,NumberOfSmallMoons
+Min Planet Distance By Star Radius ,,スター半径分分の距離プラネット
+Max Planet Distance By Star Radius ,,スター半径だけ最大の惑星の距離
+Max Random Inclination of Planets,,惑星のマックスランダム傾き
+NumOfGalaxies,,NumOfGalaxies
+numberOfParticles,,numberOfParticles
+numberDMParticles,,numberDMParticles
+relativeSize,,relativeSize
+includeDarkMatter,,includeDarkMatter
+E0,,E0
+E1,,E1
+E2,,E2
+E3,,E3
+E4,,E4
+E5,,E5
+E6,,E6
+E7,,E7
+S0,,S0
+Sa,,サ
+Sb,,Sbの
+Sc,,SC
+S Ba,,SのBa
+S Bb,,S Bbの
+S Bc,,S Bcを
+GalaxyType,,GalaxyType
+SpiralArms,,SpiralArms
+ArmAngle,,ArmAngle
+Arrange,,アレンジ
+Inner Radius,,内径
+Outer Radius,,外半径
+Right Height,,右の高さ
+Geo,,ジオ
+Radius Units,,半径単位
+Auto Bounds,,オート境界
+Automatically compute realistic inner and outer boundaries,,現実的な内側と外側の境界を自動的に計算します
+Show ring gaps,,ショーリングギャップ
+Include gaps in rings causd by unstable resonances with orbiting bodies,,体を周回して不安定な共振によってcausdリングのギャップを含めます
+Rectangle,,矩形
+Ring,,リング
+Sphere,,球
+Box,,ボックス
+Spiral,,スパイラル
+Torus,,トーラス
+Shape,,形状
+Fill,,埋めます
+Surface,,表面
+Ordered,,順序付けられました
+Random,,ランダム
+Spacing,,スペーシング
+Linear,,リニア
+Quadratic,,二次の
+Cubic,,キュービック
+Exponential,,指数
+Spriral Type,,Spriralタイプ
+Spriral Revolutions,,Spriral革命
+Solar System,,太陽系
+Date,,日付
+Start,,開始
+Encounter,,出会い
+Date Meaning,,日付意味
+Dwarfs And Major Asteroids,,ドワーフや主要な小惑星
+Dwarfs And Asteroids,,ドワーフや小惑星
+Dwarfs And Many Asteroids,,ドワーフ、多くの小惑星
+Asteroids & Dwarfs,,小惑星＆ドワーフ
+Earths Moon,,地球の月
+Major Moons,,主なムーンズ
+All Moons,,すべてムーンズ
+Just Saturn,,ただ、土星
+Visitor,,ビジター
+Include Rogue Body,,ローグ本体を含みます
+Rogue Body,,ローグボディ
+Use Different Mass,,異なる質量を使用してください
+Body Mass,,ボディマス
+Distance from Aim Point,,目的点からの距離
+Aim Target,,ターゲットを目指します
+Aim Point X Offset,,目的点Xオフセット
+Aim Point Y Offset,,目的ポイントYオフセット
+1 - Delete Rogue Body,,1  - ローグボディを削除します
+2 - Balance Simulation Momentum,,2  - バランスシミュレーション勢い
+3 - Delete All Trail Data,,3  - すべてのトレイルのデータを削除します。
+Copy Settings to Clipboard,,クリップボードへのコピー設定
+MassValues,,MassValues
+Mass Low,,マスロー
+Mass High,,マスハイ
+Mass Logarithmic,,マス対数
+TempValues,,TempValues
+Temperature Low,,低温
+Temperature High,,高温
+Temperature Logarithmic,,温度対数
+Fragment,,断片
+Body Type,,ボディタイプ
+Four Materials,,四のマテリアル
+viewAngle,,viewAngle
+Sun,,太陽
+Semi Major Axis,,軌道長半径
+Right Asc Of Asc Node,,昇順ノードの右昇順
+Arg Of Perigee,,近地点のArg

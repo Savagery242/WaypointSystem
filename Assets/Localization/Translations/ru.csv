@@ -1,0 +1,629 @@
+Keys,Context,RU
+Close Window,,Закрой окно
+Keep Panel Open,,Держите панель Open
+Switch to grid view,,Просмотр в виде сетки
+Home,,Главная
+Editor Only,,Редактор только
+Save Language Keys,,Сохранить Языковые ключи
+Generate Thumbnails,,Генерация миниатюр
+File,,файл
+New...,,Новый ...
+Open...,,Открыто...
+Create...,,Создайте...
+Save...,,Сохранить...
+Show My Simulation Folder,,Показать мою Simulation папку
+Restart Simulation,,Перезапуск Simulation
+Activities,,мероприятия
+Introduction,,Введение
+Climate Intro,,Климат Введение
+Exploring the Solar Neighborhood,,Исследуя окрестности Солнца
+Eccentricity Intro,,Эксцентриситет Введение
+Phases of the Moon,,Фазы Луны
+Feedback,,Обратная связь
+Run Performance Test,,Run Test Performance
+Send Feedback,,Отправить отзыв
+Show Log File in Folder,,Показать файл журнала в папке
+Open Log File,,Open Log File
+Open Crash Dump Location,,Open Краш самосвала Расположение
+Experimental,,экспериментальный
+Hands Free Demo,,Hands Free Demo
+Toggle VR Mode,,Переключить режим VR
+Tools,,инструменты
+Graphs,,диаграммы
+Profiler,,Profiler
+Compare Objects,,Сравнение объектов
+Links,,связи
+What's New,,Что нового
+Credits,,кредиты
+Forum,,Форум
+Troubleshooting,,Исправление проблем
+Exit,,Выход
+Main,,Главный
+Open,,открыто
+Create,,Создайте
+Core,,ядро
+Graphics Quality,,Качество графики
+Video,,видео
+Texture Resolution,,Разрешение текстур
+Filtering Quality,,Фильтрация качества
+Effects Quality,,эффекты качества
+Antialiasing,,Сглаживание
+Vertical Sync,,Вертикальная синхронизация
+Shadows,,Тени
+Decals,,Переводные картинки
+Glows,,накаляет
+Extra Particles,,Дополнительные частицы
+Displacement Mapping,,Mapping Смещение
+Render Mode,,Рендер режим
+Volume,,объем
+Master Volume,,Master Volume
+Music Volume,,Громкость музыки
+Input,,вход
+Invert Scroll Wheel,,Инверсия колесо прокрутки
+Use Controller,,Использование контроллера
+Performance,,Представление
+Use multi-core,,Использование многоядерных
+Pause on low FPS,,Пауза на низких FPS
+Low FPS Threshold,,Низкий FPS Порог
+Max Attracting Bodies,,Макс Привлечение органов
+Max Non-Attracting Bodies,,Max Non-притягивающие тела
+Max Decals,,Макс Decals
+Debug,,Отлаживать
+Debug Info,,Debug Info
+Attractor Lines,,Аттракторные линии
+Impact Lines,,ударные линии
+linkMassToBodyDefault,,linkMassToBodyDefault
+linkRadiusToBodyDefault,,linkRadiusToBodyDefault
+linkAtmosphereDefault,,linkAtmosphereDefault
+TargetFrameRate,,TargetFrameRate
+Window Resolution,,окно Разрешение
+Reset,,Сброс
+Settings,,настройки
+Add,,Добавить
+Powers,,полномочия
+Chart,,Диаграмма
+Properties,,свойства
+Each Frame,,Каждый кадр
+On Demand,,По требованию
+Graph,,график
+Timespan,,Промежуток времени
+X Value,,Значение X
+X Unit,,Раздел X
+Y Value,,Значение Y
+Y Unit,,Unit Y
+Advanced,,продвинутый
+MouseSensitivity,,Чувствительность мыши
+X Axis,,Ось X
+Y Axis,,Ось Y
+Legend,,легенда
+Labels,,Этикетки
+GridColor,,GridColor
+LabelsColor,,LabelsColor
+HighlightColor,,HighlightColor
+Compare,,сравнить
+Scripting,,Scripting
+Paths,,пути
+Scripts,,Сценарии
+Ambience,,атмосфера
+Presets,,Пресеты
+Grid,,сетка
+Opacity,,помутнение
+3D Labels,,3D этикетки
+Icons,,Иконки
+Trails,,Трассы
+Context,,контекст
+Width,,Ширина
+Length,,длина
+Intensity,,интенсивность
+Orbits,,Орбиты
+Orbit Context,,Orbit Контекст
+Orbit Width,,Orbit Ширина
+Orbit Intensity,,Orbit Intensity
+Projected Paths,,Прогнозируемые Дорожки
+Rays,,лучи
+Long/Latitude Lines,,Длинная / Широта Линия
+Velocity Lines,,Скоростные линии
+Lighting Mode,,Режим освещения
+Light Intensity,,Интенсивность света
+Body Colors,,Цвета тела
+Habitable Zones,,Жилые зоны
+SPH - Hidden in Build,,SPH - Скрытый в Строить
+SPH Display Mode,,SPH Режим отображения
+SPH Sample Mode,,Режим Sample SPH
+SPH Render Mode,,SPH Рендер режим
+View,,Посмотреть
+Simulation,,моделирование
+Help,,Помогите
+Edit,,редактировать
+home,,Главная
+select,,Выбрать
+edit,,редактировать
+add,,Добавить
+powers,,полномочия
+script,,скрипт
+play_pause,,play_pause
+sim,,сим
+view,,Посмотреть
+chart,,диаграмма
+standard,,стандарт
+find,,найти
+help,,Помогите
+feedback,,Обратная связь
+profiler,,профайлер
+restart,,перезапуск
+Time,,Время
+increase,,увеличение
+decrease,,снижение
+Gravity,,Сила тяжести
+Tolerance,,Толерантность
+IntegratorId,,IntegratorId
+IntegrationMode,,IntegrationMode
+Compute Device,,Compute Device
+Accuracy,,точность
+Collisions,,Столкновения
+Enable Collisions,,Включить столкновения судов
+Collision Mode,,Режим столкновения
+MaintainCenterOfMass,,MaintainCenterOfMass
+SlidingMotionDampning,,SlidingMotionDampning
+AbsorptionRadiusScalar,,AbsorptionRadiusScalar
+ShockWaveRangeMultiplier,,ShockWaveRangeMultiplier
+ShockWaveGradualEnergyScalar,,ShockWaveGradualEnergyScalar
+FragmentRandomVelocityScale,,FragmentRandomVelocityScale
+FragmentRandomAngularVelocityScale,,FragmentRandomAngularVelocityScale
+LossRatio,,LossRatio
+EjectionVelocityRandomScalar,,EjectionVelocityRandomScalar
+OrthogonalEjectionVelocityScalar,,OrthogonalEjectionVelocityScalar
+EjectionVelocityScalar,,EjectionVelocityScalar
+Particle Density,,Плотность частиц
+Pause on Collision,,Пауза на столкновения
+Volatile Tails,,Летучие Хвосты
+Comets,,Кометы
+Comet Tail Acceleration Multiplier,,Comet Tail Ускорение Multiplier
+Stellar Flares,,Stellar факелы
+Flare Frequency Multiplier,,Flare умножитель частоты
+Flare Duration Multiplier,,Flare Продолжительность Multiplier
+Tides,,приливы
+Tidal Heating,,Приливные отопления
+Bodies heat through friction when they are deformed by tidal forces,,"Тела тепла в результате трения, когда они деформируются приливными силами"
+Tidal Heating Multiplier as Log,,Приливные отопления тиражирования в Вход
+Multiply the effect of tidal heating,,Умножить эффект приливного нагрева
+Coming in a Future Update,,Далее в обновлении будущего
+Tidal Evolution,,Приливные Evolution
+The orbit and rotation of a body is affected by tidal forces,,Орбита и вращение тела зависят от приливных сил
+Tidal Evolution Multiplier,,Приливные Evolution Multiplier
+Multiply the effect of tidal evolution,,Умножить эффект приливной эволюции
+Universal Drag,,Универсальный Drag
+Totally fake effect - as if there were atmosphere everywhere to cause drag,,Полностью поддельный эффект - как будто бы атмосфера везде вызвать сопротивление
+Drag Reference Frame,,Перетащите референцную
+Density of Space,,Плотность пространства
+Drag Coefficient,,Коэффициент сопротивления
+Actions,,действия
+Reverse All Velocities,,Реверс всех скоростей
+Halt All Velocities,,Прекратить все скорости
+Halt All Rotations,,Стой Все Ротации
++2% All Velocities,,+ 2% всех скоростей
+-2% All Velocities,,-2% всех скоростей
++2% All Rotations,,+ 2% Все Повороты
+-2% All Rotations,,-2% Все Повороты
+Balance Simulation Momentum,,Баланс Моделирование Momentum
+Delete All Particles/Dust,,Удалить все частицы / пыль
+Delete All Fragments,,Удалить все фрагменты
+Delete All Trail Data,,Удалить все данные Trail
+Auto Orbit,,Авто Orbit
+Focus on Center Body,,Сосредоточиться на центр Body
+Expand - Not in Steam,,Expand - Не пара
+Shrink - Not in Steam,,Shrink - Не пара
+Stats,,Информация и статистика
+Body Count,,Подсчет убитых
+Simulated,,симулированный
+NonSimulated,,NonSimulated
+Attracting,,Привлечение
+NonAttracting,,NonAttracting
+Star Count,,Star Count
+Mass,,масса
+Velocity,,Скорость
+Momentum,,инерция
+General,,Генеральная
+Show Trail,,Показать маршрут
+Show Orbit,,Показать Orbit
+Name,,имя
+Radius,,Радиус
+Density,,плотность
+Age,,Возраст
+Surface Temperature,,Температура поверхности
+Surface temperature of the body,,Температура поверхности тела
+Total Velocity,,Общая скорость
+Relative Total Velocity,,Относительная Total Velocity
+Relative Body,,Относительное тело
+Orbital Parent,,Орбитальный родитель
+The body that this body orbits,,"Тело, что это тело орбиты"
+Rotational Period,,Период вращения
+Amount of time it takes for this body to spin once,,"Количество времени, которое требуется для этого тела, чтобы спина раз"
+Position Lock,,Положение блокировки
+Tidally Lock,,приливно замок
+Display Settings,,Настройки отображения
+Hide Rotation,,Скрыть Rotation
+Display Mode,,Режим отображения
+DisplayFlags,,DisplayFlags
+Axis,,Ось
+Obliquity,,косое
+Angle between rotation axis and orbital plane,,Угол между осью вращения и плоскостью орбиты
+Argument of Obliquity,,Довод наклонения
+Defines where in the orbit the rotation axis points,,"Определяет, где на орбите точки оси вращения"
+Orbital Elements,,Орбитальные элементы
+Semi-Major Axis,,Большая полуось
+The typical distance from the orbital parent body,,Типичное расстояние от орбиты родительского тела
+Eccentricity,,эксцентричность
+How circular (0) to not circular (1) the orbit is,,Как круговой (0) не круговой (1) орбита
+Inclination,,наклонение
+Angle between the orbital plane and a reference plane,,Угол между плоскостью орбиты и плоскостью отсчета
+Argument of Periapsis,,Аргумент Перицентра
+Describes the orientation of the orbital plane - where the closest approach point is,,Описывает ориентацию плоскости орбиты - где ближайшая точка подхода является
+Right Ascension of the Ascending Node,,Прямое восхождение восходящего узла
+Where the orbit passes upward through the reference frame,,"Там, где орбита проходит вверх через отсчет"
+Mean Anomaly,,Среднее аномалию
+Where in the orbit the body currently is,,Где в орбите тело в настоящее время является
+Orbital Period,,Орбитальный период
+Amount of time it takes for the body to orbit its parent,,"Количество времени, которое требуется для тела на орбиту своего родителя"
+Periapsis Distance,,Перицентр Расстояние
+Distance of closest approach,,Расстояние от ближайшего подхода
+Apoapsis Distance,,Апоцентр Расстояние
+Distance of furthest approach,,Расстояние дальнего подхода
+Temperature,,температура
+Tidal Power,,Приливные силы
+Amount of energy per second from tidal heating,,Количество энергии в секунду от приливного нагрева
+Radiative Power,,Радиационное Мощность
+Amount of energy per second absorbed from radiative sources,,Количество энергии в секунду абсорбируется из радиационных источников
+Effective Temperature,,Эффективная температура
+Calculated from all heating sources,,Рассчитано из всех источников нагрева
+Dynamic,,динамический
+Position,,Должность
+Orientation,,ориентация
+AngularVelocity,,Угловая скорость
+SubStepCount,,SubStepCount
+Camera Relative,,Относительная камера
+Normalized Light Curve,,Нормированная Light Curve
+Fraction of star light reaching the camera,,"Доля звезд света, достигающего камеры"
+Radial Velocity,,Radial Velocity
+Speed of selected object toward or away from the camera,,Скорость выбранного объекта в сторону или в сторону от камеры
+Camera Inclination,,Склонность камеры
+Angle between plane and camera position,,Угол между плоскостью и положением камеры
+Camera Azimuth,,камера Азимут
+Camera Rotation Angle,,Угол поворота камеры
+Albedo,,Альбедо
+Reflectivity of the body from 0-1,,Отражательная тела от 0-1
+Albedo Feedback,,Альбедо Обратная связь
+Greenhouse Effect,,Парниковый эффект
+How Much Warmer Than Without an Atmosphere,,"Сколько теплее, чем без атмосферы"
+Atmosphere Mass,,Атмосфера Mass
+Surface Pressure,,Поверхностное давление
+Scale Height,,Масштаб Высота
+Enable Climate,,Включение климата
+Temperature Depends on Latitude,,Температура зависит от Широта
+Optimize for Climate View,,Оптимизация для климата View
+Show Atmosphere,,Показать Atmosphere
+Show Clouds,,Показать Clouds
+Heat Capacity of Air,,Теплоемкость воздуха
+Heat Capacity of Air + Ocean Mixed Layer,,Теплоемкость воздуха + океана смешанного слоя
+Land-Ocean Heat Coupling Factor,,Земля-океан Тепловой коэффициент связи
+Equator-to-Pole Diffusion,,Экватор к полюсу Диффузия
+Simulate Hadley Cell,,Имитировать Hadley Cell
+Reset Climate to Default,,Сброс климата для умолчанию
+Defines direction the rotation axis points,,Определяет направление точки оси вращения
+Avg. Distance to Star,,Avg. Расстояние до Star
+The average distance to the Sun,,Среднее расстояние до Солнца
+Cumulative Properties,,Кумулятивные свойства
+Debug Tools,,Отладочные инструменты
+RadiusTuningFactor,,RadiusTuningFactor
+disableInterpolation,,disableInterpolation
+linkMassToBody,,linkMassToBody
+linkRadiusToBody,,linkRadiusToBody
+linkAtmosphere,,linkAtmosphere
+PastType,,PastType
+PresentType,,PresentType
+FutureType,,FutureType
+Transition,,переход
+Category,,категория
+Base,,База
+Celestial,,астрономический
+ChartComponent,,ChartComponent
+OrbitalElements,,OrbitalElements
+AppearanceComponent,,AppearanceComponent
+Composition,,Состав
+DustParticleTail,,DustParticleTail
+IonTail,,IonTail
+TrailComponent,,TrailComponent
+ClimateComponent,,ClimateComponent
+Persistence,,Упорство
+Save this object,,Сохранить этот объект
+Open Bodies Folder,,Открытые тела папки
+Misc,,Разное
+Launch Fireworks,,Запуск фейерверков
+Zero Velocity,,Нулевая скорость
+Explosion,,взрыв
+Energy,,энергии
+Mars,,Марс
+Find,,найти
+All,,Все
+Internal,,внутренний
+Bugs,,ошибки
+Old Internal,,Старый Внутренний
+Solar Sys,,Солнечная Sys
+Planets,,планеты
+Exoplanets,,Экзопланеты
+Supernovas,,Сверхновые
+Stress Tests,,Стресс-тесты
+Experiments,,Эксперименты
+Human Scale,,Масштаб человеческой
+Other Tests,,Другие тесты
+My Sims,,Мои симы
+Choreo,,Choreo
+Systems,,системы
+Galaxies,,Galaxies
+Encounters,,Столкновения
+Grids,,Сетки
+Chaotic Orbits,,Хаотические Орбиты
+Stars,,Звезды
+Minor,,Незначительный
+Black Holes,,Черные дыры
+Common,,общий
+Moons,,Спутники
+Objects,,Объекты
+User Objects,,Пользовательские объекты
+Rings,,Кольца
+1D,,1D
+2D,,2D
+3D,,3D
+Procedural,,процедурный
+Textured,,Текстурированные
+Planet,,планета
+Basic,,основной
+Materials,,материалы
+Orcus,,Орк
+Climate,,климат
+Copy Language Keys to Clipboard,,Копировать Языковые ключи в буфер обмена
+High,,Высокая
+Medium,,средний
+Low,,Низкий
+Off,,от
+  2x   Multisampling,,  2x Multisampling
+  4x   Multisampling,,  4x Multisampling
+  8x   Multisampling,,  8й Multisampling
+Realistic,,реалистический
+Wireframe,,Каркасный
+Retro,,Ретро
+Sketchbook,,Sketchbook
+Relief,,Облегчение
+Underwater,,подводный
+Selected,,выбранный
+Auto,,Авто
+Studio,,студия
+Flash Light,,фонарик
+Acceleration,,ускорение
+Physics,,физика
+Flat,,Квартира
+Billboard,,рекламный щит
+Cross,,Пересекать
+Color,,цвет
+Pressure,,давление
+Gauss,,гаусс
+Circular,,круговое
+Additive,,присадка
+Alpha,,Альфа
+Time +,,Время +
+TimeStepModeDependant,,TimeStepModeDependant
+Euler Explicit,,Эйлер Явное
+Euler Semi Implicit,,Эйлер Semi неявной
+RK2,,RK2
+RK4,,RK4
+RKF,,РКФ
+Velocity Verlet,,Скорость Верле
+Forest Ruth,,Forest Ruth
+PEFRL,,PEFRL
+Fixed,,Исправлена
+Global Adaptive,,Глобальная Адаптивный
+Enable Fragments,,Включение фрагментов
+Awesome,,Потрясающие
+Barycenter,,барицентр
+Most Massive Body,,Самое массивное тело
+Fixed Grid,,Фиксированная сетевая
+Info & Stats,,Информация и статистика
+Default,,По умолчанию
+Elevation,,высота
+Surface Features,,Поверхностные характеристики
+None,,Никто
+Trail,,тропинка
+Orbit,,орбита
+Prefab,,Каркасные
+Black Hole,,Черная дыра
+Star,,звезда
+Gas Giant,,Газовый гигант
+Terrestrial Planet,,Terrestrial Planet
+Planetoid,,астероид
+Physics Object,,Физика объектов
+Lock Position,,Блокировка установки
+Collider,,Коллайдер
+Collider Group Major,,Коллайдер группа Major
+Gravity Attracting,,Гравитация Привлекая
+Fragmenting,,Фрагментация
+Momentum Less,,Momentum Меньше
+Collision,,коллизия
+Timeout,,Тайм-аут
+Protocol,,протокол
+Nova,,Новая звезда
+Deletion,,делеция
+Regular,,регулярное
+Brown Dwarf,,Коричневый карлик
+White Dwarf,,Белый Гном
+Neutron Star,,Neutron Star
+DEFAULT,,ПО УМОЛЧАНИЮ
+FRAGMENTATION,,ФРАГМЕНТАЦИЯ
+Rock,,рок
+Terran,,Terran
+Desert,,пустынный
+Ice,,лед
+Local Laplace,,Местное Лаплас
+Ecliptic,,эклиптика
+Equatorial,,экваториальный
+Charon,,Харон
+RCP8 5,,RCP8 5
+RCP6,,RCP6
+RCP4 5,,RCP4 5
+RCP2 6,,RCP2 6
+Levels,,Уровни
+Seed,,семя
+StarIntensity,,StarIntensity
+Brightness,,яркость
+Contrast,,контрастировать
+Saturation,,насыщение
+ClampToHorizon,,ClampToHorizon
+Colors,,Цвета
+BaseColor,,BaseColor
+Color1,,Color1
+Color2,,Color2
+Solid Color,,Solid Color
+Texture,,текстура
+Mode,,Режим
+Manual,,Руководство
+Automatic,,автоматическая
+AmbientLight,,Окружающий свет
+Manual Ambient Color,,Ручная Цвет Ambient
+Ambient Brightness,,Окружающая Яркость
+BackgroundRotation,,BackgroundRotation
+BackgroundTextureSource,,BackgroundTextureSource
+Save as...,,Сохранить как...
+StartDate,,Дата начала
+StartPaused,,StartPaused
+Body A,,Тело
+Rotation Period,,Вращение Период
+Body B,,Тело B
+Collider Count,,коллайдер граф
+Sec Before Collision (real time),,Sec до столкновения (в реальном времени)
+Pos H Offset in Rad A,,Поз Н Смещение в Rad A
+Pos V Offset in Rad A,,Поз V Смещение в Rad A
+Angle H,,Угол H
+Angle V,,Угол V
+Time Between Colliders,,Время между коллайдерами
+System,,система
+A + B Groups,,A + B Группы
+Time Offset Each Group,,Смещение времени Каждая группа
+Collision Resolution,,Столкновение Разрешение
+Velocity X,,Скорость X
+Velocity Y,,Скорость Y
+Velocity Z,,Скорость Z
+Time Step Rate,,Время Step Rate
+Real Time,,реальное время
+Time Step Mode,,Режим Step Time
+Reset Camera,,Сброс камеры
+Options,,Опции
+Initialize Climate,,Инициализировать климат
+Body,,тело
+Separation in Radii,,Разделение в радиусах
+Upward Velocity Scale,,Скорость вверх Масштаб
+Randomize,,Перемешайте
+Randomize Mass,,Перемешайте мессу
+Perturb Pos in Radii,,Возмущать Pos радиусов
+Rate,,Ставка
+Integrator,,интегратор
+Random Seed,,Случайное зерно
+Center Body,,Центр тела
+NumberOfGasGiants,,NumberOfGasGiants
+NumberOfPlanets,,NumberOfPlanets
+NumberOfMoons,,NumberOfMoons
+NumberOfSmallMoons,,NumberOfSmallMoons
+Min Planet Distance By Star Radius ,,Min Planet Расстояние звездного Радиус
+Max Planet Distance By Star Radius ,,Max Planet Расстояние звездного Радиус
+Max Random Inclination of Planets,,Max Random Склонность Планет
+NumOfGalaxies,,NumOfGalaxies
+numberOfParticles,,numberOfParticles
+numberDMParticles,,numberDMParticles
+relativeSize,,относительный размер
+includeDarkMatter,,includeDarkMatter
+E0,,E0
+E1,,E1
+E2,,E2
+E3,,E3
+E4,,E4
+E5,,E5
+E6,,E6
+E7,,E7
+S0,,S0
+Sa,,Sa
+Sb,,Sb
+Sc,,Южная Каролина
+S Ba,,S Ба
+S Bb,,S Bb
+S Bc,,S Bc
+GalaxyType,,GalaxyType
+SpiralArms,,SpiralArms
+ArmAngle,,ArmAngle
+Arrange,,организовать
+Inner Radius,,Внутренний радиус
+Outer Radius,,внешний радиус
+Right Height,,Правая Высота
+Geo,,Geo
+Radius Units,,Единицы измерения радиуса
+Auto Bounds,,Авто Bounds
+Automatically compute realistic inner and outer boundaries,,Автоматически вычислять реалистичные внутренние и внешние границы
+Show ring gaps,,пробелы Показать кольцо
+Include gaps in rings causd by unstable resonances with orbiting bodies,,Включить пробелы в кольцах causd нестабильными резонансов с орбитальными телами
+Rectangle,,Прямоугольник
+Ring,,Кольцо
+Sphere,,сфера
+Box,,коробка
+Spiral,,спиральный
+Torus,,торус
+Shape,,форма
+Fill,,заполнить
+Surface,,поверхность
+Ordered,,Приказал
+Random,,случайный
+Spacing,,расстояние
+Linear,,линейный
+Quadratic,,квадратный
+Cubic,,кубический
+Exponential,,экспоненциальный
+Spriral Type,,Spriral Тип
+Spriral Revolutions,,Spriral Обороты
+Solar System,,Солнечная система
+Date,,Дата
+Start,,Начало
+Encounter,,стычка
+Date Meaning,,Дата Значение
+Dwarfs And Major Asteroids,,Гномы и крупные астероиды
+Dwarfs And Asteroids,,Карлики и астероиды
+Dwarfs And Many Asteroids,,Гномы и многие астероиды
+Asteroids & Dwarfs,,Астероиды и гномы
+Earths Moon,,Земли Луна
+Major Moons,,Основные Moons
+All Moons,,Все Moons
+Just Saturn,,Просто Сатурн
+Visitor,,посетитель
+Include Rogue Body,,Включите Rogue Body
+Rogue Body,,Rogue Body
+Use Different Mass,,Использование различных масс
+Body Mass,,Масса тела
+Distance from Aim Point,,Расстояние от точки Aim
+Aim Target,,Цель Цель
+Aim Point X Offset,,Цель Точка X Offset
+Aim Point Y Offset,,Цель точки Смещение по оси Y
+1 - Delete Rogue Body,,1 - Удалить Rogue Body
+2 - Balance Simulation Momentum,,2 - Баланс Моделирование Momentum
+3 - Delete All Trail Data,,3 - Удалить все данные Trail
+Copy Settings to Clipboard,,Параметры копирования в буфер обмена
+MassValues,,MassValues
+Mass Low,,Масс низкий
+Mass High,,Масс-высокий
+Mass Logarithmic,,Масс-логарифмический
+TempValues,,TempValues
+Temperature Low,,Низкая температура
+Temperature High,,Высокая температура
+Temperature Logarithmic,,Температура логарифмическая
+Fragment,,Фрагмент
+Body Type,,Телосложение
+Four Materials,,Четыре материалы
+viewAngle,,угол обзора
+Sun,,солнце
+Semi Major Axis,,Большая полуось
+Right Asc Of Asc Node,,Право Asc КУС Узла
+Arg Of Perigee,,Arg перигея

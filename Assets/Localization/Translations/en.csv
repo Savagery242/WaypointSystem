@@ -1,0 +1,630 @@
+Keys,Context,EN
+Close Window,,Close Window
+Keep Panel Open,,Keep Panel Open
+Switch to grid view,,Switch to grid view
+Home,,Home
+Editor Only,,Editor Only
+Save Language Keys,,Save Language Keys
+Generate Thumbnails,,Generate Thumbnails
+File,,File
+New...,,New...
+Open...,,Open...
+Create...,,Create...
+Save...,,Save...
+Show My Simulation Folder,,Show My Simulation Folder
+Restart Simulation,,Restart Simulation
+Activities,,Activities
+Introduction,,Introduction
+Climate Intro,,Climate Intro
+Exploring the Solar Neighborhood,,Exploring the Solar Neighborhood
+Eccentricity Intro,,Eccentricity Intro
+Phases of the Moon,,Phases of the Moon
+Feedback,,Feedback
+Run Performance Test,,Run Performance Test
+Send Feedback,,Send Feedback
+Show Log File in Folder,,Show Log File in Folder
+Open Log File,,Open Log File
+Open Crash Dump Location,,Open Crash Dump Location
+Experimental,,Experimental
+Hands Free Demo,,Hands Free Demo
+Toggle VR Mode,,Toggle VR Mode
+Tools,,Tools
+Graphs,,Graphs
+Profiler,,Profiler
+Compare Objects,,Compare Objects
+Links,,Links
+What's New,,What's New
+Credits,,Credits
+Forum,,Forum
+Troubleshooting,,Troubleshooting
+Exit,,Exit
+Main,,Main
+Open,,Open
+Create,,Create
+Core,,Core
+Graphics Quality,,Graphics Quality
+Video,,Video
+Texture Resolution,,Texture Resolution
+Filtering Quality,,Filtering Quality
+Effects Quality,,Effects Quality
+Antialiasing,,Antialiasing
+Vertical Sync,,Vertical Sync
+Shadows,,Shadows
+Decals,,Decals
+Glows,,Glows
+Extra Particles,,Extra Particles
+Displacement Mapping,,Displacement Mapping
+Render Mode,,Render Mode
+Volume,,Volume
+Master Volume,,Master Volume
+Music Volume,,Music Volume
+Input,,Input
+Invert Scroll Wheel,,Invert Scroll Wheel
+Use Controller,,Use Controller
+Performance,,Performance
+Use multi-core,,Use multi-core
+Pause on low FPS,,Pause on low FPS
+Low FPS Threshold,,Low FPS Threshold
+Max Attracting Bodies,,Max Attracting Bodies
+Max Non-Attracting Bodies,,Max Non-Attracting Bodies
+Max Decals,,Max Decals
+Debug,,Debug
+Debug Info,,Debug Info
+Attractor Lines,,Attractor Lines
+Impact Lines,,Impact Lines
+linkMassToBodyDefault,,linkMassToBodyDefault
+linkRadiusToBodyDefault,,linkRadiusToBodyDefault
+linkAtmosphereDefault,,linkAtmosphereDefault
+TargetFrameRate,,TargetFrameRate
+Window Resolution,,Window Resolution
+Reset,,Reset
+Settings,,Settings
+Add,,Add
+Powers,,Powers
+Chart,,Chart
+Properties,,Properties
+Each Frame,,Each Frame
+On Demand,,On Demand
+Graph,,Graph
+Timespan,,Timespan
+X Value,,X Value
+X Unit,,X Unit
+Y Value,,Y Value
+Y Unit,,Y Unit
+Advanced,,Advanced
+MouseSensitivity,,MouseSensitivity
+X Axis,,X Axis
+Y Axis,,Y Axis
+Legend,,Legend
+Labels,,Labels
+GridColor,,GridColor
+LabelsColor,,LabelsColor
+HighlightColor,,HighlightColor
+Compare,,Compare
+Scripting,,Scripting
+Paths,,Paths
+Scripts,,Scripts
+Ambience,,Ambience
+Presets,,Presets
+Grid,,Grid
+Opacity,,Opacity
+3D Labels,,3D Labels
+Icons,,Icons
+Trails,,Trails
+Context,,Context
+Width,,Width
+Length,,Length
+Intensity,,Intensity
+Orbits,,Orbits
+Orbit Context,,Orbit Context
+Orbit Width,,Orbit Width
+Orbit Intensity,,Orbit Intensity
+Projected Paths,,Projected Paths
+Rays,,Rays
+Long/Latitude Lines,,Long/Latitude Lines
+Velocity Lines,,Velocity Lines
+Lighting Mode,,Lighting Mode
+Light Intensity,,Light Intensity
+Body Colors,,Body Colors
+Habitable Zones,,Habitable Zones
+SPH - Hidden in Build,,SPH - Hidden in Build
+SPH Display Mode,,SPH Display Mode
+SPH Sample Mode,,SPH Sample Mode
+SPH Render Mode,,SPH Render Mode
+View,,View
+Simulation,,Simulation
+Help,,Help
+Edit,,Edit
+home,,home
+select,,select
+edit,,edit
+add,,add
+powers,,powers
+script,,script
+play_pause,,play_pause
+sim,,sim
+view,,view
+chart,,chart
+standard,,standard
+find,,find
+help,,help
+feedback,,feedback
+profiler,,profiler
+restart,,restart
+Time,,Time
+increase,,increase
+decrease,,decrease
+Gravity,,Gravity
+Tolerance,,Tolerance
+IntegratorId,,IntegratorId
+IntegrationMode,,IntegrationMode
+Compute Device,,Compute Device
+Accuracy,,Accuracy
+Collisions,,Collisions
+Enable Collisions,,Enable Collisions
+Collision Mode,,Collision Mode
+MaintainCenterOfMass,,MaintainCenterOfMass
+SlidingMotionDampning,,SlidingMotionDampning
+AbsorptionRadiusScalar,,AbsorptionRadiusScalar
+ShockWaveRangeMultiplier,,ShockWaveRangeMultiplier
+ShockWaveGradualEnergyScalar,,ShockWaveGradualEnergyScalar
+FragmentRandomVelocityScale,,FragmentRandomVelocityScale
+FragmentRandomAngularVelocityScale,,FragmentRandomAngularVelocityScale
+LossRatio,,LossRatio
+EjectionVelocityRandomScalar,,EjectionVelocityRandomScalar
+OrthogonalEjectionVelocityScalar,,OrthogonalEjectionVelocityScalar
+EjectionVelocityScalar,,EjectionVelocityScalar
+Particle Density,,Particle Density
+Pause on Collision,,Pause on Collision
+Volatile Tails,,Volatile Tails
+Comets,,Comets
+Comet Tail Acceleration Multiplier,,Comet Tail Acceleration Multiplier
+Stellar Flares,,Stellar Flares
+Flare Frequency Multiplier,,Flare Frequency Multiplier
+Flare Duration Multiplier,,Flare Duration Multiplier
+Tides,,Tides
+Tidal Heating,,Tidal Heating
+Bodies heat through friction when they are deformed by tidal forces,,Bodies heat through friction when they are deformed by tidal forces
+Tidal Heating Multiplier as Log,,Tidal Heating Multiplier as Log
+Multiply the effect of tidal heating,,Multiply the effect of tidal heating
+Coming in a Future Update,,Coming in a Future Update
+Tidal Evolution,,Tidal Evolution
+The orbit and rotation of a body is affected by tidal forces,,The orbit and rotation of a body is affected by tidal forces
+Tidal Evolution Multiplier,,Tidal Evolution Multiplier
+Multiply the effect of tidal evolution,,Multiply the effect of tidal evolution
+Universal Drag,,Universal Drag
+Totally fake effect - as if there were atmosphere everywhere to cause drag,,Totally fake effect - as if there were atmosphere everywhere to cause drag
+Drag Reference Frame,,Drag Reference Frame
+Density of Space,,Density of Space
+Drag Coefficient,,Drag Coefficient
+Actions,,Actions
+Reverse All Velocities,,Reverse All Velocities
+Halt All Velocities,,Halt All Velocities
+Halt All Rotations,,Halt All Rotations
++2% All Velocities,,+2% All Velocities
+-2% All Velocities,,-2% All Velocities
++2% All Rotations,,+2% All Rotations
+-2% All Rotations,,-2% All Rotations
+Balance Simulation Momentum,,Balance Simulation Momentum
+Delete All Particles/Dust,,Delete All Particles/Dust
+Delete All Fragments,,Delete All Fragments
+Delete All Trail Data,,Delete All Trail Data
+Auto Orbit,,Auto Orbit
+Focus on Center Body,,Focus on Center Body
+Expand - Not in Steam,,Expand - Not in Steam
+Shrink - Not in Steam,,Shrink - Not in Steam
+Stats,,Info & Stats
+Body Count,,Body Count
+Simulated,,Simulated
+NonSimulated,,NonSimulated
+Attracting,,Attracting
+NonAttracting,,NonAttracting
+Star Count,,Star Count
+Mass,,Mass
+Velocity,,Velocity
+Momentum,,Momentum
+General,,General
+Show Trail,,Show Trail
+Show Orbit,,Show Orbit
+Name,,Name
+Radius,,Radius
+Density,,Density
+Age,,Age
+Surface Temperature,,Surface Temperature
+Surface temperature of the body,,Surface temperature of the body
+Total Velocity,,Total Velocity
+Relative Total Velocity,,Relative Total Velocity
+Relative Body,,Relative Body
+Orbital Parent,,Orbital Parent
+The body that this body orbits,,The body that this body orbits
+Rotational Period,,Rotational Period
+Amount of time it takes for this body to spin once,,Amount of time it takes for this body to spin once
+Position Lock,,Position Lock
+Tidally Lock,,Tidally Lock
+Display Settings,,Display Settings
+Hide Rotation,,Hide Rotation
+Display Mode,,Display Mode
+DisplayFlags,,DisplayFlags
+Axis,,Axis
+Obliquity,,Obliquity
+Angle between rotation axis and orbital plane,,Angle between rotation axis and orbital plane
+Argument of Obliquity,,Argument of Obliquity
+Defines where in the orbit the rotation axis points,,Defines where in the orbit the rotation axis points
+Orbital Elements,,Orbital Elements
+Semi-Major Axis,,Semi-Major Axis
+The typical distance from the orbital parent body,,The typical distance from the orbital parent body
+Eccentricity,,Eccentricity
+How circular (0) to not circular (1) the orbit is,,How circular (0) to not circular (1) the orbit is
+Inclination,,Inclination
+Angle between the orbital plane and a reference plane,,Angle between the orbital plane and a reference plane
+Argument of Periapsis,,Argument of Periapsis
+Describes the orientation of the orbital plane - where the closest approach point is,,Describes the orientation of the orbital plane - where the closest approach point is
+Right Ascension of the Ascending Node,,Right Ascension of the Ascending Node
+Where the orbit passes upward through the reference frame,,Where the orbit passes upward through the reference frame
+Mean Anomaly,,Mean Anomaly
+Where in the orbit the body currently is,,Where in the orbit the body currently is
+Orbital Period,,Orbital Period
+Amount of time it takes for the body to orbit its parent,,Amount of time it takes for the body to orbit its parent
+Periapsis Distance,,Periapsis Distance
+Distance of closest approach,,Distance of closest approach
+Apoapsis Distance,,Apoapsis Distance
+Distance of furthest approach,,Distance of furthest approach
+Temperature,,Temperature
+Tidal Power,,Tidal Power
+Amount of energy per second from tidal heating,,Amount of energy per second from tidal heating
+Radiative Power,,Radiative Power
+Amount of energy per second absorbed from radiative sources,,Amount of energy per second absorbed from radiative sources
+Effective Temperature,,Effective Temperature
+Calculated from all heating sources,,Calculated from all heating sources
+Dynamic,,Dynamic
+Position,,Position
+Orientation,,Orientation
+AngularVelocity,,AngularVelocity
+SubStepCount,,SubStepCount
+Camera Relative,,Camera Relative
+Normalized Light Curve,,Normalized Light Curve
+Fraction of star light reaching the camera,,Fraction of star light reaching the camera
+Radial Velocity,,Radial Velocity
+Speed of selected object toward or away from the camera,,Speed of selected object toward or away from the camera
+Camera Inclination,,Camera Inclination
+Angle between plane and camera position,,Angle between plane and camera position
+Camera Azimuth,,Camera Azimuth
+Camera Rotation Angle,,Camera Rotation Angle
+Albedo,,Albedo
+Reflectivity of the body from 0-1,,Reflectivity of the body from 0-1
+Albedo Feedback,,Albedo Feedback
+Greenhouse Effect,,Greenhouse Effect
+How Much Warmer Than Without an Atmosphere,,How Much Warmer Than Without an Atmosphere
+Atmosphere Mass,,Atmosphere Mass
+Surface Pressure,,Surface Pressure
+Scale Height,,Scale Height
+Enable Climate,,Enable Climate
+Temperature Depends on Latitude,,Temperature Depends on Latitude
+Optimize for Climate View,,Optimize for Climate View
+Show Atmosphere,,Show Atmosphere
+Show Clouds,,Show Clouds
+Heat Capacity of Air,,Heat Capacity of Air
+Heat Capacity of Air + Ocean Mixed Layer,,Heat Capacity of Air + Ocean Mixed Layer
+Land-Ocean Heat Coupling Factor,,Land-Ocean Heat Coupling Factor
+Equator-to-Pole Diffusion,,Equator-to-Pole Diffusion
+Simulate Hadley Cell,,Simulate Hadley Cell
+Reset Climate to Default,,Reset Climate to Default
+Defines direction the rotation axis points,,Defines direction the rotation axis points
+Avg. Distance to Star,,Avg. Distance to Star
+The average distance to the Sun,,The average distance to the Sun
+Cumulative Properties,,Cumulative Properties
+Debug Tools,,Debug Tools
+RadiusTuningFactor,,RadiusTuningFactor
+disableInterpolation,,disableInterpolation
+linkMassToBody,,linkMassToBody
+linkRadiusToBody,,linkRadiusToBody
+linkAtmosphere,,linkAtmosphere
+PastType,,PastType
+PresentType,,PresentType
+FutureType,,FutureType
+Transition,,Transition
+Category,,Category
+Base,,Base
+Celestial,,Celestial
+ChartComponent,,ChartComponent
+OrbitalElements,,OrbitalElements
+AppearanceComponent,,AppearanceComponent
+Composition,,Composition
+DustParticleTail,,DustParticleTail
+IonTail,,IonTail
+TrailComponent,,TrailComponent
+ClimateComponent,,ClimateComponent
+Persistence,,Persistence
+Save this object,,Save this object
+Open Bodies Folder,,Open Bodies Folder
+Misc,,Misc
+Launch Fireworks,,Launch Fireworks
+Zero Velocity,,Zero Velocity
+Explosion,,Explosion
+Energy,,Energy
+Mars,,Mars
+Find,,Find
+All,,All
+Internal,,Internal
+Bugs,,Bugs
+Old Internal,,Old Internal
+Solar Sys,,Solar Sys
+Planets,,Planets
+Exoplanets,,Exoplanets
+Supernovas,,Supernovas
+Stress Tests,,Stress Tests
+Experiments,,Experiments
+Human Scale,,Human Scale
+Other Tests,,Other Tests
+My Sims,,My Sims
+Choreo,,Choreo
+Systems,,Systems
+Galaxies,,Galaxies
+Encounters,,Encounters
+Grids,,Grids
+Chaotic Orbits,,Chaotic Orbits
+Stars,,Stars
+Minor,,Minor
+Black Holes,,Black Holes
+Common,,Common
+Moons,,Moons
+Objects,,Objects
+User Objects,,User Objects
+Rings,,Rings
+1D,,1D
+2D,,2D
+3D,,3D
+Procedural,,Procedural
+Textured,,Textured
+Planet,,Planet
+Basic,,Basic
+Materials,,Materials
+Orcus,,Orcus
+Climate,,Climate
+Copy Language Keys to Clipboard,,Copy Language Keys to Clipboard
+High,,High
+Medium,,Medium
+Low,,Low
+Off,,Off
+  2x   Multisampling,,  2x   Multisampling
+  4x   Multisampling,,  4x   Multisampling
+  8x   Multisampling,,  8x   Multisampling
+Realistic,,Realistic
+Wireframe,,Wireframe
+Retro,,Retro
+Sketchbook,,Sketchbook
+Relief,,Relief
+Underwater,,Underwater
+Selected,,Selected
+Auto,,Auto
+Studio,,Studio
+Flash Light,,Flash Light
+Acceleration,,Acceleration
+Physics,,Physics
+Flat,,Flat
+Billboard,,Billboard
+Cross,,Cross
+Color,,Color
+Pressure,,Pressure
+Gauss,,Gauss
+Circular,,Circular
+Additive,,Additive
+Alpha,,Alpha
+Time +,,Time +
+TimeStepModeDependant,,TimeStepModeDependant
+Euler Explicit,,Euler Explicit
+Euler Semi Implicit,,Euler Semi Implicit
+RK2,,RK2
+RK4,,RK4
+RKF,,RKF
+Velocity Verlet,,Velocity Verlet
+Forest Ruth,,Forest Ruth
+PEFRL,,PEFRL
+Fixed,,Fixed
+Global Adaptive,,Global Adaptive
+Enable Fragments,,Enable Fragments
+Awesome,,Awesome
+Barycenter,,Barycenter
+Most Massive Body,,Most Massive Body
+Fixed Grid,,Fixed Grid
+Info & Stats,,Info & Stats
+Default,,Default
+Elevation,,Elevation
+Surface Features,,Surface Features
+None,,None
+Trail,,Trail
+Orbit,,Orbit
+Prefab,,Prefab
+Black Hole,,Black Hole
+Star,,Star
+Gas Giant,,Gas Giant
+Terrestrial Planet,,Terrestrial Planet
+Planetoid,,Planetoid
+Physics Object,,Physics Object
+Lock Position,,Lock Position
+Collider,,Collider
+Collider Group Major,,Collider Group Major
+Gravity Attracting,,Gravity Attracting
+Fragmenting,,Fragmenting
+Momentum Less,,Momentum Less
+Collision,,Collision
+Timeout,,Timeout
+Protocol,,Protocol
+Nova,,Nova
+Deletion,,Deletion
+Regular,,Regular
+Brown Dwarf,,Brown Dwarf
+White Dwarf,,White Dwarf
+Neutron Star,,Neutron Star
+DEFAULT,,DEFAULT
+FRAGMENTATION,,FRAGMENTATION
+Rock,,Rock
+Terran,,Terran
+Desert,,Desert
+Ice,,Ice
+Local Laplace,,Local Laplace
+Ecliptic,,Ecliptic
+Equatorial,,Equatorial
+Charon,,Charon
+RCP8 5,,RCP8 5
+RCP6,,RCP6
+RCP4 5,,RCP4 5
+RCP2 6,,RCP2 6
+Levels,,Levels
+Seed,,Seed
+StarIntensity,,StarIntensity
+Brightness,,Brightness
+Contrast,,Contrast
+Saturation,,Saturation
+ClampToHorizon,,ClampToHorizon
+Colors,,Colors
+BaseColor,,BaseColor
+Color1,,Color1
+Color2,,Color2
+Solid Color,,Solid Color
+Texture,,Texture
+Mode,,Mode
+Manual,,Manual
+Automatic,,Automatic
+AmbientLight,,AmbientLight
+Manual Ambient Color,,Manual Ambient Color
+Ambient Brightness,,Ambient Brightness
+BackgroundRotation,,BackgroundRotation
+BackgroundTextureSource,,BackgroundTextureSource
+Save as...,,Save as...
+StartDate,,StartDate
+StartPaused,,StartPaused
+Body A,,Body A
+Rotation Period,,Rotation Period
+Body B,,Body B
+Collider Count,,Collider Count
+Sec Before Collision (real time),,Sec Before Collision (real time)
+Pos H Offset in Rad A,,Pos H Offset in Rad A
+Pos V Offset in Rad A,,Pos V Offset in Rad A
+Angle H,,Angle H
+Angle V,,Angle V
+Time Between Colliders,,Time Between Colliders
+System,,System
+A + B Groups,,A + B Groups
+Time Offset Each Group,,Time Offset Each Group
+Collision Resolution,,Collision Resolution
+Velocity X,,Velocity X
+Velocity Y,,Velocity Y
+Velocity Z,,Velocity Z
+Time Step Rate,,Time Step Rate
+Real Time,,Real Time
+Time Step Mode,,Time Step Mode
+Reset Camera,,Reset Camera
+Options,,Options
+Initialize Climate,,Initialize Climate
+Body,,Body
+Separation in Radii,,Separation in Radii
+Upward Velocity Scale,,Upward Velocity Scale
+Randomize,,Randomize
+Randomize Mass,,Randomize Mass
+Perturb Pos in Radii,,Perturb Pos in Radii
+Rate,,Rate
+Integrator,,Integrator
+Random Seed,,Random Seed
+Center Body,,Center Body
+NumberOfGasGiants,,NumberOfGasGiants
+NumberOfPlanets,,NumberOfPlanets
+NumberOfMoons,,NumberOfMoons
+NumberOfSmallMoons,,NumberOfSmallMoons
+Min Planet Distance By Star Radius ,,Min Planet Distance By Star Radius 
+Max Planet Distance By Star Radius ,,Max Planet Distance By Star Radius 
+Max Random Inclination of Planets,,Max Random Inclination of Planets
+NumOfGalaxies,,NumOfGalaxies
+numberOfParticles,,numberOfParticles
+numberDMParticles,,numberDMParticles
+relativeSize,,relativeSize
+includeDarkMatter,,includeDarkMatter
+E0,,E0
+E1,,E1
+E2,,E2
+E3,,E3
+E4,,E4
+E5,,E5
+E6,,E6
+E7,,E7
+S0,,S0
+Sa,,Sa
+Sb,,Sb
+Sc,,Sc
+S Ba,,S Ba
+S Bb,,S Bb
+S Bc,,S Bc
+GalaxyType,,GalaxyType
+SpiralArms,,SpiralArms
+ArmAngle,,ArmAngle
+Arrange,,Arrange
+Inner Radius,,Inner Radius
+Outer Radius,,Outer Radius
+Right Height,,Right Height
+Geo,,Geo
+Radius Units,,Radius Units
+Auto Bounds,,Auto Bounds
+Automatically compute realistic inner and outer boundaries,,Automatically compute realistic inner and outer boundaries
+Show ring gaps,,Show ring gaps
+Include gaps in rings causd by unstable resonances with orbiting bodies,,Include gaps in rings causd by unstable resonances with orbiting bodies
+Rectangle,,Rectangle
+Ring,,Ring
+Sphere,,Sphere
+Box,,Box
+Spiral,,Spiral
+Torus,,Torus
+Shape,,Shape
+Fill,,Fill
+Surface,,Surface
+Ordered,,Ordered
+Random,,Random
+Spacing,,Spacing
+Linear,,Linear
+Quadratic,,Quadratic
+Cubic,,Cubic
+Exponential,,Exponential
+Spriral Type,,Spriral Type
+Spriral Revolutions,,Spriral Revolutions
+Solar System,,Solar System
+Date,,Date
+Start,,Start
+Encounter,,Encounter
+Date Meaning,,Date Meaning
+Dwarfs And Major Asteroids,,Dwarfs And Major Asteroids
+Dwarfs And Asteroids,,Dwarfs And Asteroids
+Dwarfs And Many Asteroids,,Dwarfs And Many Asteroids
+Asteroids & Dwarfs,,Asteroids & Dwarfs
+Earths Moon,,Earths Moon
+Major Moons,,Major Moons
+All Moons,,All Moons
+Just Saturn,,Just Saturn
+Visitor,,Visitor
+Include Rogue Body,,Include Rogue Body
+Rogue Body,,Rogue Body
+Use Different Mass,,Use Different Mass
+Body Mass,,Body Mass
+Distance from Aim Point,,Distance from Aim Point
+Aim Target,,Aim Target
+Aim Point X Offset,,Aim Point X Offset
+Aim Point Y Offset,,Aim Point Y Offset
+1 - Delete Rogue Body,,1 - Delete Rogue Body
+2 - Balance Simulation Momentum,,2 - Balance Simulation Momentum
+3 - Delete All Trail Data,,3 - Delete All Trail Data
+Copy Settings to Clipboard,,Copy Settings to Clipboard
+MassValues,,MassValues
+Mass Low,,Mass Low
+Mass High,,Mass High
+Mass Logarithmic,,Mass Logarithmic
+TempValues,,TempValues
+Temperature Low,,Temperature Low
+Temperature High,,Temperature High
+Temperature Logarithmic,,Temperature Logarithmic
+Fragment,,Fragment
+Body Type,,Body Type
+Four Materials,,Four Materials
+viewAngle,,viewAngle
+Sun,,Sun
+Semi Major Axis,,Semi Major Axis
+Right Asc Of Asc Node,,Right Asc Of Asc Node
+Arg Of Perigee,,Arg Of Perigee
+"Earth","","Earth"
