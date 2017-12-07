@@ -37,9 +37,7 @@
 "Body.OrbitParent","","Orbit Parent"
 "Body.OrbitParent_TOOLTIP","","The body that this body orbits"
 "Body.Age","","Age"
-"Body.Age_TOOLTIP","Some context
-Some more context
-Some more context","How long the body has existed in the simulation (accounts for age in the universe if known object)"
+"Body.Age_TOOLTIP","Context = The age of the body","How long the body has existed in the simulation (accounts for age in the universe if known object)"
 "Body.SurfaceGravity","","Surface Gravity"
 "Body.SurfaceGravity_TOOLTIP","","The gravitational acceleration experienced at the surface"
 "Body.RotationSpeedAtEquator","","Rotation Speed"
